@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Data Extraction from Richly Formatted Documents</title>
+    <link rel="stylesheet" href="../static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../static/css/appstyle.css">
+    <link rel="stylesheet" href="../static/css/font-awesome.min.css">
+    <link rel="icon" type="image/png" href="../static/images/icons/favicon.ico" />
+</head>
+
+<body >
+        <nav class="navbar">
+            <a class="navbar-brand text-center mx-auto" href="#">
+                <img src="../static/images/ust_logol.png" class="img-fluid">
+            </a>
+        </nav>
+        <div class="container-fluid  page-container row-container">
+            
+                <div class="row">
+                    <div class="col-md-8 offset-md-2">
+                        <div class="card mx-auto mt-5 h-100">                            
+                            <div class="card-header">
+                                <h4>Data Extraction from Richly Formatted Documents</h4>
+                                <h6>Use Case Demo - Extraction of CEO names from financial documents</h6>
+                                    <ul class="nav nav-tabs card-header-tabs" id="feature-list">
+                                        <li class="nav-item">
+                                            <a class="nav-link active" data-toggle="tab" href="#overview" role="tab">Overview of fonduer pipeline</a>
+                                        </li>
+                                        <li class="nav-item">                                                
+                                            <a class="nav-link"  href="#data_model" role="tab" aria-controls="data_model" aria-selected="false">Fonduer Data Model</a>         
+                                        </li>                                        
+                                    </ul>
+                            </div>
+                            <div class="card-body">
+                                <div class="tab-content" id="myTabContent">
+                                    <div class="tab-pane fade show active col" id="overview" role="tabpanel" aria-labelledby="overview-tab">
+                                        <img class="img-fluid" src="../static/images/doc_flow.png">
+                                        <p class="card-text">An overview of Fonduer is shown in Figure. Fonduer takes as input a collection of richly formatted documents
+                                            and a collection of user inputs. It follows a machine-learning-based approach to extract relations from the input documents.
+                                            The relations extracted by Fonduer are stored in a target knowledge base.</p>
+                                    </div>
+                                    <div class="tab-pane col" id="data_model" role="tabpanel" aria-labelledby="data_model-tab"> 
+                                        <img class="img-fluid text-center mx-auto" src="../static/images/data_model.png" style="display:block;">
+                                        <p class="card-text">Fonduer’s data model is a directed acyclic graph (DAG) that contains a hierarchy of contexts, whose structure reflects the intuitive hierarchy of document components.
+                                        <br>
+                                        <br>
+                                        In this graph, each node is a context (represented as boxes in Figure). The root of the DAG is a Document, which contains Section contexts.
+                                        Each Section is divided into: Texts, Tables, and Figures. Texts can contain multiple Paragraphs; Tables and Figures can contain Captions; Tables can also contain Rows and Columns, which are in turn made up of Cells.
+                                        Each context ultimately breaks down into Paragraphs that are parsed into Sentences. In Figure, a downward edge indicates a parent contains-child relationship. This hierarchy serves as an abstraction for both system and user interaction with the input corpus
+                                        </p>
+                                    </div>                                    
+                                </div>
+                            </div>
+                            <div class="card-footer text-center">
+                                <a href="/step1"><button class="btn btn-primary">Continue  <i class="fa fa-sign-in"></i></button></a>                        
+                            </div>
+                        </div>                                                
+                    </div>
+                </div> 
+            </div>
+<script src="../static/js/jquery-3.4.1.min.js"></script> 
+<script src="../static/js/bootstrap.min.js"></script>
+<script src="../static/js/fontawesome.min.js"></script>
+<script>
+        $('#feature-list a').on('click', function (e) {
+      e.preventDefault()
+      $(this).tab('show')
+    })    
+</script>
+</body>
+</html>

@@ -1,0 +1,770 @@
+filename;company;revenue tag;revenue;unit;net income tag;net income;ceo;chairman;bods;region;year
+ASX_BTU_2016.pdf;Bathurst resources Ltd;Revenue;50879000;Dollar;Gross Profit;10523000.0;Richard Tacon;Toko Kapea;Toko Kapea, Richard Tacon, Russell Middleton, Peter Westerhuis;New Zealand;2016
+ASX_BTU_2015.pdf;Bathurst resources Ltd;Revenue;51289000;Dollar;Gross Profit;7381000.0;Richard Tacon;Toko Kapea;Toko Kapea, Richard Tacon, Russell Middleton, Peter Westerhuis;New Zealand;2015
+ASX_BTU_2014.pdf;Bathurst resources Ltd;Revenue;55525000;Dollar;Gross Loss;1270000.0;Richard Tacon;Dave Frow;Dave Frow, Hamish Bohannan, Rob Lord, Malcolm Macpherson, Toko Kapea;New Zealand;2014
+ASX_NSR_2016.pdf;National Storage;Total revenue;79800000;Dollar;profit after tax;44000000.0;Peter Greer;Laurence Brindle;Laurence Brindle, Andrew Catsoulis, Anthony Keane, Howard Brenchley, Steven Leigh;Australia;2016
+NASDAQ_DDD_2005.pdf;3D Systems Corporation;Global Revenue;125400000;Dollar;EPS;0.53;Abe N. Reichental;G. Walter Loewenbaum, II;G. Walter Loewenbaum II,Abe N. Reichental,Charles W. Hull,Kevin S. MooreMiriam V. Gold,Jim D. Kever,Richard C. Spalding,Daniel S. Van Riper;USA;2005
+NASDAQ_AMSC_2016.pdf;AMSC;Revenues;75,195;Dollar;Gross profit;10,843;Daniel Patrick McGahn;John Wood, Jr. ;Daniel P. McGahn;UNITED STATES ;2017
+NASDAQ_AXAS_2015.pdf;Abraxas;Revenues; 67,002;Dollar;Net income;127,110;Robert L.G. Watson;Robert L.G. Watson;Robert L.G. Watson, Harold D. Carter, W. Dean Karrash,  Jerry J. Langdon, Dennis E. Logue, Brian L. Melton, Paul A. Powell. Jr, Edward P. Russell;San Antonio, Texas;2015
+NASDAQ_MEAS_2011.pdf;measurement specialties;Net Sales;274789000;Dollar;income;28175000;R. Barry Uber;Morton L. Topfer;Morton L. Topfer, R. Barry Uber, Frank Guidone, John D. Arnold, Satish Rishi, Kenneth E. Thompson;China;2011
+NYSE_BHP_2014.pdf;BHP Billiton;Revenue;67.2 billion;Dollar;Profit from operations;23,412 Million;Andrew Mackenzie;Jac Nasser AO;Malcolm Brinded;Australia;2014
+NYSE_AA_2006.pdf;Alcoa;Revenues;30.4 Billion;Dollar;net income;2,248 ;Alain J. P. Belda;Alain J. P. Belda;Alain J. P. Belda,Judith M. Gueron,Henry B. Schacht,Kathryn S. Fuller,Klaus Kleinfeld,Ratan N. Tata,Carlos Ghosn,Franklin A. Thomas,Joseph T. Gorman,James W. Owens,Ernesto Zedillo;Pennsylvania;2006
+NASDAQ_NIHD_2016.pdf;Nextel Communications, Inc;Operating revenues ;985,046;Dollar;Total comprehensive (loss) income;1,384,088;Steven M. Shindler;Kevin L. Beebe;Steven M. Shindler;US;2016
+NYSE_LOV_2015.pdf;SPARK NETWORKS, INC;Revenue;48,135;Dollar;Net income (loss);1,437;Michael S. Egan;Michael J. McConnell;Lee K. Barba ;US;2015
+NASDAQ_ACET_2007.pdf;Aceto;Gross profit;54,493;Dollar;net income;10,212;LEONARD S. SCHWARTZ;LEONARD S. SCHWARTZ;ALBERT L. EILENDER,STANLEY H. FISCHER,IRA S. KALLEM,HANS C. NOETZLI,LEONARD S. SCHWARTZ,ROBERT A. WIESEN,WILLIAM N. BRITTON;NY,US;2007
+ASX_AWE_2009.pdf;Australian Worldwide Exploration;Revenue;590262000;Dollar;Gross profit;349,499000;David Rogers;B. G. McKay;B. J. W. Wood;Australia;2009
+NASDAQ_CRUS_2016.pdf;Cirrus Logic;Net Revenue;579,862;Dollar;Net income;123,630;JASON P. RHODE;Alan R. Schuele;JOHN C. CARTER,ALEX DAVERN,TIMOTHY R. DEHNE,CHRISTINE KING,ALAN R. SCHUELE,WILLIAM D. SHERMAN, DAVID J. TUPMAN;Austin,Texas,United States;2016
+NYSE_PGI_2011.pdf;PGI;Revenue;473.8 M;Dollar;Net income;16,888;Boland T. Jones ;Boland T. Jones;Wilkie S. Colyer,K. Robert Draughon,John R. Harris,W. Steven Jones,Raymond H. Pirtle Jr, J. Walker Smith Jr;Atlanta, Georgia,USA;2011
+NYSE_ALJ_2010_fe915abaa1e54005b710eecafaf76cb3.pdf;Alon USA;profit;25,642;Dollar;Net income;122,932;Jeff D. Morris;David Wiessman;Jeff D. Morris,Ron W. Haddock,Itzhak Bader, Avraham Baiga Shochat,Yeshayahu Pery,Zalman Segal,Boaz Biran,Avinadav Grinshpon,Shlomo Even ;Dallas, Texas;2010
+AMEX_BRN_2008.pdf;barnwell industries Inc;Present value ; 88246000;Dollar;Proceeds;4426000;Morton H. Kinzler;Morton H. Kinzler;Heidi M. Uratsuka, Sheryl A. L. Villanueva, Traciann K. Watanabe , Cynthia M. K. Grillot, Margaret A. Mangan,Morton H. Kinzler, Alexander C. Kinzler, Russell M. Gifford, Mark A. Murashige, Joseph R. Downs III, ;Honolulu;2008
+NYSE_APA_1994.pdf;apache corp;REVENUES;466638 thousand;Dollar;net income;37334 thousand;Raymond Plank;RAYMOND PLANK ; JOSEPH A. RICE ,JAY A. PRECOURT , JOHN A. KOCUR , WILLIAM J. JOHNSON , STANLEY K. HATHAWAY , STANLEY K. HATHAWAY , ROBERT V. GISSELBECK ,W. BROOKS FIELDS ,EUGENE C. FIEDOREK , RANDOLPH M. FERLIC , VIRGIL B. DAY ,FREDERICK M. BOHEN ,MARK A. JACKSON ;Texas;1993
+NYSE_BHI_2008.pdf;baker huges;REVENUES;11864 millions;Dollar;net income;1635 millions;Chad C. Deaton;Chad C. Deaton;Chad C. Deaton, Martin S. Craighead ,Paul S. Butero ,Stephen K. Ellison ,Gary G. Rich ,Hughes Christensen ,Richard L. Williams ,Clifton Triplett ,David H. Barr ,Christopher P. Beaver ,Nelson Ney ,John A. O’Donnell ,Baker Petrolite ,David E. Emerson ,Peter A. Ragauss ,Alan J. Keifer ,John H. Lohman Jr. ,Jan Kees van Gaalen ,Alan R. Crain ,Sandra E. Alford ,Jay G. Martin ,Didier Charreton ,Derek Mathieson ,Russell J. Cancilla;Texas;2008
+NYSE_DBD_2016.pdf;Diebold Nixdorf;net sales;3316.3M;Dollar;Gross profit;721.7M;Andy Mattes;Henry D.G. Wallace;PATRICK W. ALLENDER,GALE S. FITZGERALD,HENRY D.G. WALLACE,PHILLIP R. COX,GARY G. GREENFIELD,ALAN J. WEBER,RICHARD L. CRANDALL,ANDY W. MATTES,DR. ALEXANDER DIBELIUS,ROBERT S. PRATHER JR.,DR. JÜRGEN WUNRAM,DR. DIETER DÜSEDAU,RAJESH K. SOIN;Washington D.C.;2016
+NYSE_VII_2016.pdf;Vicon Industries Inc.;net sales;35,759,651;Dollar;Gross profit;13,357,534;John M. Badke;Julian A. Tiedemann;John M. Badke,Bret M. McGowan,Peter A. Horn,Mark S. Provinsal,Julian A. Tiedemann,Arthur D. Roche,Steven E. Walin,Warren J. White;Washington D.C.;2016
+NYSE_CBT_2010.pdf;Cabot Corporation;net sales;2,893M;Dollar;Gross profit;564M;Patrick M. Prevost;John F. O’Brien;PATRICK M. PREVOST,EDUARDO E. CORDEIRO,JAMES P. KELLY,JOHN F. O’BRIEN,JOHN S. CLARKESON, JUAN ENRIQUEZ-CABOT, ARTHUR L. GOLDSTEIN,GAUTAM S. KAJI,RODERICK C.G. MACLEOD,HENRY F. MCCANCE,JOHN K. MCGILLICUDDY,RONALDO H. SCHMITZ,LYDIA W. THOMAS,MARK S. WRIGHTON;Washington D.C.;2010
+OTC_UXCLF_2010.pdf;UXC LIMITED;Revenue;685500;Dollar;NPAT from Continuing Operations;18599;Michael Waymark;Geoffrey Lord;Geoffrey Lord,Geoffrey Cosgriff,Kingsley Culley,Jean-Marie Simart,Jean-Marie Simart,Cris Nicolli,Mark Hubbard,Michael Waymark,Ralph Pickering;Australia;2010
+NASDAQ_FARO_2016.pdf;Faro;net sales;236.3M;Dollar;segment profit;69.8M;Simon Raab;Simon Raab;Simon Raab,Simon Raab,Janet D’Anjou, John Caldwell,Lynn Brubaker, Stephen R. Cole,Marvin Sambur,John Donofrio;Washington D.C.;2016
+ASX_BDR_2016.pdf;BEADELL;Sales revenue;239.8;Dollar;Reported profit/(loss) after tax;22.4;Simon Jackson;Craig Readhead;Craig Readhead,Nicole Adshead-Bell,Brant Hinze,Timo Jauristo,Glen Masterman,Simon Jackson;SA;2016
+NYSE_AR_2015.pdf;Antero Resources;Total revenue Consolidated;3,954,858;Rupees;Operating income Consolidated;1,790,286;Paul M. Rady; Paul M. Rady;Robert J. Clark;North America;2015
+NYSE_TEL_2016.pdf;TE connectivity;net sales;1.2B;Dollar;net income;2,009M;Tom Lynch;Tom Lynch;Pierre R. Brondeau,Carol A. (‘‘John’’) Davidson,Juergen W. Gromer,William A. Jeffrey,Yong Nam,Daniel J. Phelan,Paula A. Sneed,Mark C. Trudeau,John C. Van Scoter,Laura H. Wright ;Zurich;2016
+NASDAQ_ACET_2005.pdf;aceto;net sales;313,381T;Dollar;net income;10,015T;Leonard S. Schwartz;Leonard S. Schwartz;ALBERT L. EILENDER,STANLEY H. FISCHER,IRA S. KALLEM,HANS C. NOETZLI,LEONARD S. SCHWARTZ,ROBERT A. WIESEN ;NY;2005
+ASX_HSN_2016.pdf;hansen technologies;operating revenue;149 million;Dollar;net profit;26.1million;Andrew Hansen ;David Trude;Ms Julia Chand,Mr David Osborne,Ms Sarah Morgan,Mr Peter Berry,Mr Bruce Adams,Mr David Trude,Mr Andrew Hansen,;australia;2016
+NASDAQ_MXWL_2016.pdf;maxwell technologies;total revenue;121244 thousand;USD;gross profit; 32970 thousand;frank fink;frank fink;frank fink, david link;san diego;2016
+NASDAQ_ELSE_2015.pdf;united states securities and exchange commisssion;net revenue;7636 thousand;USD;total income;1744 thousand;david k klenk;Joseph A. Marino ;david k klenk,  Scott A. Gabbard ,Joseph A. Marino , Michael C. Zipoy, Jeffrey D. Peterson ;washington;2015
+NYSE_APC_2014.pdf;Anadarko;net revenue;17060 million;USD;net income;1750 millions;R. A. Walker;R. A. Walker;"Anthony R. Chase
+,
+Kevin P. Chilton
+,
+H. Paulett Eberhart
+,
+Peter J. Fluor
+,
+Richard L. George
+,
+Charles W. Goodyear
+,
+Joseph W. Gorder
+,
+John R. Gordon
+,
+Mark C. McKinley
+,
+Eric D. Mullins
+,
+R. A. Walker
+";Texas;2014
+NYSE_BPL_2009.pdf;buckeye partners L.p;revenue;1770.7 millions;USD;net income;141 millions;Forrest E. Wylie;Forrest E. Wylie;"Forrest E. Wylie,
+Irvin K. Culpepper Jr.,John F. Erhard
+,
+Michael B. Goldberg ,
+C. Scott Hobbs,Mark C. McKinley ,
+Oliver “Rick” G. Richard,Robb E. Turner ";Texas;2009
+ASX_ARI_2009.pdf;one steel;total revenue;7307.8 millions;USD;gross profit;1587.5 millions;Geoff Plummer ;Peter Smedley ;P J (PETER) SMEDLEY,R B (BRYAN) DAVIS,G (GEOFF) PLUMMER, E J (EILEEN) DOYLE B,L G (LAURIE) COX  AO, C R (COLIN) GALBRAITH AM, P G (PETER) NANKERVIS,G J (GRAHAM) SMORGON,D A (DEAN) PRITCHARD ,K L (KARA) NICHOLLS ,N J (NEVILLE) ROACH  AO;sydney;2009
+NYSE_APA_2000.pdf;apache corp;REVENUES;1142336 thousand;USD;income;344573 thousand ;raymond plank;raymond plank;"
+ Frederick M. Bohen
+,
+ G. Steven Farris
+,
+ Randolph M. Ferlic
+,
+ Eugene C. Fiedorek
+,
+ A. D. Frazier, Jr.
+ ,
+ Stanley K. Hathaway
+ ,
+ John A. Kocur
+,
+ George D. Lawrence Jr.
+ ,
+ Mary Ralph Lowe
+,
+ F. H. Merelli
+ ,
+ Rodman D. Patton
+,
+ Joseph A. Rice";Texas;1999
+NASDAQ_ENPH_2016.pdf;enphase energy inc;net revenueq;322591 thousand;USD;gross profit;58008 thousand;paul b nahi;Humberto Garcia;"Humberto Garcia,paul b nahi
+
+";california;2016
+NYSE_LOCK_2014.pdf;united states securities and exchange commisssion;total revenue;476016 thousand;USD;gross profit;355594 thousand;Todd Davis;Todd Davis;Todd Davis, chris power;washington;2014
+NASDAQ_COVS_2016.pdf;covisint corp;;;USD;;; Samuel M. Inman III ;Samuel M. Inman;"Homaira Akbari ,Enrico Digirolamo ,Bernard M. Goldsmith , William O. Grabe, Lawrence David Hansen,Michael K. Keddington ,
+Samuel M. Inman,Philip F. Lay ";michigan;2015
+NYSE_CUB_2016.pdf;cubic corporations;net sales; 1431045 thousand;USD;operating income;75387 thousand;Bradley H. Feldmann;Walter C. Zable;Bradley H. Feldmann,Steven J. Norris,Bruce G. Blakley,Robert S. Sullivan,Edwin A. Guiles,John H. Warner Jr,Janice M. Hamby,Walter C. Zable;washington;2016
+NYSE_APC_2009.pdf;Anadarko Petroleum Corporation;sales revenue; 2924 millions;USD;net income;135 millions;James T. Hackett;James T. Hackett;"ROBERT J. ALLISON JR.,
+JOHN R. BUTLER JR.,
+LUKE R. CORBETT,
+H. PAULETT EBERHART,
+PETER J. FLUOR,
+PRESTON M. GEREN III,
+JOHN R. GORDON,
+JAMES T. HACKETT,
+PAULA ROSPUT REYNOLDS";texas;2009
+NYSE_CTS_2016.pdf;CTS;net sales;39899 thousand;USD;net earnings;34321 thousand;Kieran M. O’Sullivan;Kieran M. O’Sullivan;"Kieran M. O’Sullivan
+,Robert A. Profusek
+,Walter S. Catlow
+,Lawrence J. Ciancia,
+Patricia K. Collawn,
+Gordon Hunter,
+William S. Johnson,
+Diana M. Murphy";illinois;2016
+NYSE_AMID_2011.pdf;AMERICAN MIDSTREAM PARTNERS LP;total revenue;244.743 million;USD;operating income;7190 thousand ;Brian F. Bierbach ;Sandra M. Flower ;Sandra M. Flower ,Brian F. Bierbach ;denver;2011
+NYSE_BIOA_2015.pdf;BioAmber Inc BIOAQ;total revenue;2172 thousand;USD;gross profit;441 thousand; Jean-François Huc;raymond land;"
+Kurt Briner
+,
+George F.J. Gosbee
+,
+Heinz Haller
+,
+Ellen Richstone
+,
+Kenneth W. Wall
+";canada;2015
+NYSE_AXU_2009.pdf;ALEXCO RESOURCE CORP;revenue;5818000 ;USD;profit;389000 ;Clynton R. Nauman;Michael Winn;"Michael Winn,George Brack,
+Terry Krepiakevich,
+Clynton Nauman,
+David Searle,
+Rick Van Nieuwenhuyse";canada;2009
+NASDAQ_DDD_2012.pdf;3D SYSTEMS CORPORATION ;consolidated revenue;353633 thousand;USD;gross profit;181196 thousand;Abraham N. Reichental;G. Walter Loewenbaum II;"Jim D. Kever
+,
+Kevin S. Moore
+,
+Daniel S. Van Riper
+,
+William E. Curran
+,
+Karen E. Welke";south carolina;2012
+OTC_PTIX_2016.pdf;Protagenic Therapeutics  Inc.;revenue;0;USD;net loss;2275826;Garo H. Armen;Garo H. Armen;"Garo H. Armen
+
+,
+Robert B. Stein
+,
+Khalil Barrage
+,
+Gregory H. Ekizian
+,
+Joshua Silverman ";new york;2016
+NYSE_ABX_2011.pdf;Barrick Gold Corporation ;revenue;14312 millions;USD;net earnings;4666 million;Aaron Regent;Peter Munk;"Howard L. Beck, Q.C.
+,
+C. William D. Birchall,
+Donald J. Carty O.C.,
+Gustavo A. Cisneros
+Santo Domingo, 
+Peter A. Crossgrove,  
+Robert M. Franklin
+,
+J. Brett Harvey
+,
+Brian Mulroney, 
+Anthony Munk
+,
+Peter Munk,
+Aaron W. Regent
+,
+Nathaniel P. Rothschild
+,
+Steven J. Shapiro
+,
+John L. Thornton";toronto;2011
+NYSE_ABX_1998.pdf;Barrick Gold Corporation ;revenue from gold sales; 1287 millions;USD;net income;3,592 millions;Randall Oliphant;Peter Munk;"Howard L. Beck,J. Trevor Eyton,Edward N. Ney,C. William D. Birchall ,David H.Gilmour,Randall Oliphant,John K.Carrington ,Angus A.MacNaughton ,Joseph L. Rotman,Marshall A.Cohen,Brian Mulroney,Peter A.Crossgrove Anthony Munk ,Gregory C.Wilkins ,Peter Munk
+";toronto;1998
+NASDAQ_KVHI_2016.pdf;KVH Industries Inc.;net sales;176122 thousand;USD;operating earnings;1322 thousand;MARTIN A. KITS VAN HEYNINGEN;DONALD W. REILLY; MARK S. AIN , STANLEY K. HONEY,BRUCE J. RYAN ,CHARLES R. TRIMBLE ;rhode island;2016
+NASDAQ_CNSL_2016.pdf;consolidated communications;total operating revenues; 743.2 millions;USD;net income;15.2 millions;C. ROBERT UDELL JR.;ROBERT J. CURREY;" RICHARD A. LUMPKIN ,ROGER H. MOORE ,MARIBETH S. RAHE , TIMOTHY D. TARON ,THOMAS A. GERKE ,
+DALE E. PARKER";illinois;2016
+NYSE_EVDY_2014.pdf;everyday health;total revenues;184325 thousand;USD;net income;12683 thousand;Ben Wolin;doug Mccormick;"doug Mccormick
+,
+Ben Wolin
+,
+dana evan
+,
+david Golden
+,
+Habib Kairouz
+,
+Myrtle Potter
+,
+sharon Wienbar";new york;2014
+NYSE_COG_2015.pdf;CABOT OIL & GAS CORPORATION;operating revenue ; 1357.2 milllions;USD;net income;113.9 millions;Dan O. Dinges;Dan O. Dinges;"Dan O. Dinges
+,
+Dorothy M. Ables
+,
+Rhys J. Best
+,
+Robert S. Boswell
+,
+Robert L. Keiser ,
+Robert Kelley ,
+W. Matt Ralls";Texas;2015
+NYSE_BHI_2005.pdf;baker huges;revenue;7185.5 million;USD;net income;878.4 milllion;Larry D. Brady;Larry D. Brady;"Larry D. Brady
+,
+Clarence P. Cazalot Jr.
+,
+Chad C. Deaton
+,
+Edward P. Djerejian
+,
+Anthony G. Fernandes
+,
+Claire W. Gargalli
+,
+James A. Lash
+,
+James F. McCall
+,
+J. Larry Nichols
+,
+H. John Riley Jr.
+,
+Charles L. Watson";Texas;2005
+NASDAQ_WIN_2015.pdf;windstream;total service revenue;5.599 billion;USD;segment income;935 million;Anthony W. Thomas; Jeffrey T. Hinson;"Tony Thomas,  Carol B. Armitage, Samuel E. Beall, III, Jeannie
+Diefenderfer, Judy K. Jones, William G. LaPerch, Larry Laque, William A. Montgomery, Michael G. Stoltz, 
+Alan L. Wells. ";arkansas;2015
+NYSE_AAV_2008.pdf;advantage energy income  fund;total revenue;149205 thousand;USD;net income;20577 thousand;Andy J. Mah ;Andy J. Mah ;"Steven E. Balog ,
+Gary F. Bourgeois,
+Kelly I. Drader,
+Paul G. Haggis,
+John A. Howard,
+Andy J. Mah,
+Ronald A. McIntosh ,
+Sheila H. O’Brien ,
+Carol D. Pennycook,
+Steven B. Sharpe,
+Rodger A. Tourigny";alberta;2008
+NYSE_AMD_2016.pdf;ADVANCED MICRO DEVICES INC.;net revenue;4272 million;USD;net loss;497 million;Dr. Lisa Su;John E. Caldwell;"John E. Caldwell
+,
+Bruce L. Claflin
+,
+Nora Denzel
+,
+Nicolas M. Donofrio
+,
+Michael Inglis
+,
+Joseph Householder
+,
+John W. Marren
+,
+Ahmed Yahia";california;2016
+NYSE_COG_2002.pdf;caot oil and gas corporation;operating revenue;353.8 million;USD;net income;16.1 million;Dan O. Dinges;Dan O. Dinges;"Dan O. Dinges
+,
+Robert F. Bailey
+,
+Henry O. Boswell
+,
+John G.L. Cabot
+,
+James G. Floyd
+,
+C. Wayne Nance
+,
+The Mitchell Group
+,
+P. Dexter Peacock
+,
+Arthur L. Smith
+,
+William P. Vititoe";Delaware;2002
+NYSE_ANR_2010.pdf;ALPHA NATURAL RESOURCES INC;total revenue;3,917,156 thousand;USD;income form continuous operations;3,917,156;Kevin S. Crutchfield ;Michael J. Quillen;"Michael J. Quillen
+,
+William J. Crowley Jr.
+,
+E. Linn Draper Jr.
+.
+Glenn A. Eisenberg
+,
+P. Michael Giftos,
+Joel Richards
+,
+James F. Roberts
+, Ted G. Wood ";virginia;2010
+NASDAQ_ACIW_2016.pdf;aci universal payments;total revenue;1005701thousand;USD;net income;129535 thousand;Philip G. Heasley ;DAVID A. POE;"DAVID A. POE,PHILIP G. HEASLEY
+,
+JANET O. ESTEP
+,
+JAMES C. HALE
+,
+JAMES C. MCGRODDY
+,
+CHARLES E. PETERS, JR.
+,
+ADALIO T. SANCHEZ
+,
+JOHN M. SHAY, JR.
+,
+JAN H. SUWINSKI
+,
+THOMAS W. WARSOP";florida;2016
+NYSE_AM_2015.pdf;Antero Midstream Partners LP;total revenue;387324T;USD;Net income(loss);159105T; Paul M. Rady;Paul M. Rady;RICHARD W. CONNOR,PETER R. KAGAN,W. HOWARD KEENAN JR.;USA;2015
+NYSE_PAYC_2016.pdf;Paycom Software Inc.;total revenue; 329,141;USD;net income; 329,141;CHAD RICHISON;CHAD RICHISON;Chad Richison,Craig E. Boelte,Jason D. Clark,Henry C. Duques,Robert J. Levenson,Larry V. Parman,Frederick C. Peters II,J.C. Watts, Jr.;Oklahoma City;2016
+NYSE_ACI_2007.pdf;Arch Coal Inc;revenues;2413.6M;USD;net income available to common shareholders;174.7M;Steven F. Leer;Steven F. Leer;None;U.S.;2007
+NYSE_ATW_2003.pdf;Atwood oceanics Inc;contract revenues;144765T;USD;Net income(loss);12802T;HANS HELMERICH;none;DEBORAH A. BECK,ROBERT W. BURGESS,GEORGE S. DOTSON,HANS HELMERICH,JOHN R. IRWIN,WILLIAM J. MORRISSEY;houston,texas;2003
+NASDAQ_VECO_2016.pdf;veeco instruments inc;net sales;332,451T;USD;Gross profit;132,858T;JOHN R. PEELER;JOHN R. PEELER;KATHLEEN A. BAYLESS ,RICHARD A. D’AMORE,GORDON HUNTER,KEITH D.JACKSON,PETER J. SIMONE,THOMAS ST. DENNIS;New York;2016
+NYSE_AA_2015.pdf;Alcoa Inc.;revenue;13.5B;USD;after tax operating income;1.0B;Klaus Kleinfeld;Klaus Kleinfeld;Klaus Kleinfeld,Arthur D. Collins Jr,Kathryn S. Fuller,Sean O. Mahoney,Michael G. Morris,E. Stanley O’Nea,James W. Owens,John C. Plant,L. Rafael Reif,Carol L. Roberts,Patricia F. Russo,Ulrich R. Schmidt,Martin S. Sorrell,Ratan N. Tata,Ernesto Zedillo;Pittsburgh;2015
+NYSE_COG_2007.pdf;Cabot Oil & Gas Corporation;Operating revenues;732.2M;USD;Net income;167.4M;Ernesto Zedillo;Ernesto Zedillo;Dan O. Dinges,John G. L. Cabot,David M. Carmichael,Robert L. Keiser,Robert Kelley,P. Dexter Peacock,William P. Vititoe;houston,texas;2007
+NYSE_CBT_2012.pdf;Cabot Corporation;net sales;3300M;USD;Gross profit;648M;PATRICK M. PREVOST;John F. O’Brien;Mark S. Wrighton,Sue H. Rataj,John F. O’Brien,Patrick M. Prevost ,Lydia W. Thomas,John S. Clarkeson,Gautam S. Kaji,Henry F. McCance,John K. McGillicuddy, Roderick C.G. MacLeod,Juan Enriquez,Ronaldo H. Schmitz,William C. Kirby;Boston, Massachusetts;2012
+NYSE_APD_2005_2ad6e601afef45caaac8085d62d1115d.pdf;Financials;sales;8143M;USD;net income;711.7M;John P. Jones III ;John P. Jones III ;none;Philadelphia, Pennsylvania ;2005
+NYSE_ASH_2004.pdf;Ashland Inc.;sales and operating revenue;8301M;USD;operating income;662M;JAMES J. O’BRIEN;JAMES J. O’BRIEN;Dr. Ernest H. Drew,Kathleen Ligocki ,George A. Schaefer Jr,Roger W. Hale ,Patrick F. Noonan,T. M. “Tim” Solso,Dr. Bernadine P. Healy,James J. O’Brien,Michael J. Ward,Mannie L. Jackson,Jane C. Pfeiffer,William L. Rouse Jr.;Covington;2004
+NYSE_AMID_2015.pdf;AMERICAN MIDSTREAM PARTNERS, LP;Total revenue;236,358;USD;Net income (loss) from continuing operations;(127,375);Lynn L. Bourdon;Mr. Tywoniuk; Donald R. Kendall Jr., Rose M. Robeson and Gerald A. Tywoniuk;USA;2015
+NASDAQ_AEHR_2016.pdf;Aehr Test Systems;net sales;14501T;USD;(loss) income from operations;6154T;Gayn Erickson;Rhea J. Posedel;Rhea J. Posedel ,Gayn Erickson,Robert R. Anderson,William W.R. Elder,Mario M. Rosati,John M. Schneider,Howard T. Slayen;fremont, CA;2016
+NASDAQ_XCRA_2016.pdf;xcerra corp;net sales;324206;USD;Net income(loss);11174T;D AVID G. T ACELLI ;R OGER W. B LETHEN;M ARK S. AIN,Roger J. Maggs,Bruce R. Wright,Jorge L. Titinger;MASSACHUSETTS;2016
+ASX_BTU_2013.pdf;Bathurst resources (new zealand) limited;revenue;4.1M;USD;Loss;376000;Mr hamish bohannan;Mr Craig Munro ;Craig Munro, Hamish Bohannan, Rob Lord, Malcolm Macpherson, Dave Frow, Toko Kapea, Graham Anderson, Marshall Maine;New Zealand;2013
+NYSE_VMW_2016.pdf;vmware inc.;total revenue;7093M;USD;net income;1186M;Patrick Gelsinger;Michael Dell;none;Palo Alto, CA;2016
+NYSE_N_2015.pdf;NetSuite inc;total revenue;741,149T;USD;Gross profit;245,428T;Zachary Nelson;Evan M. Goldberg; Zachary Nelson,James McGeever,William L. Beane III,Deborah A. Farrington,Evan M. Goldberg,Steven Gomo,Kevin Thompson,Catherine R. Kinney,Edward J. Zander;San Mateo, California;2015
+NYSE_BAK_2009.pdf;braskem;net revenue;25248M;USD;net income;917M;Bernardo Afonso de Almeida Gradin;Marcelo Bahia Odebrecht;Marcos Antônio Silva Menezes,Aluizio da Rocha Coelho Neto,Antônio Luiz Vianna de Souza,Ismael Campos de Abreu,Manoel Mota Fonseca;Global;2009
+NASDAQ_PFPT_2016.pdf;proofpoint inc;total revenue;375496T;USD;Gross profit;266903T;GARY STEELE;none;PAUL AUVIL,Dana Evan,Jonathan Feiber,Douglas Garn,Eric Hahn,Kevin Harvey,R. Scott Herren;sunnyvale;2016
+NASDAQ_AVID_2016.pdf;Avid;total net revenues;511930T;USD;Gross profit;332723;Louis Hernandez Jr. ;Louis Hernandez, Jr. ;Louis Hernandez Jr. ,Nancy Hawthorne,Robert M. Bakish ,Paula E. Boggs,Elizabeth M. Daley,Youngme E. Moon,John H. Park,Peter Westley;Massachusetts;2017
+NASDAQ_MPWR_2016.pdf;monolithic power systems;revenue; 388665 thousand ;USD;net income;52 720 thousand;MICHAEL HSING ;MICHAEL HSING ;"HERBERT CHANG
+,
+EUGEN ELMIGER
+,
+VICTOR K. LEE
+,
+JAMES C. MOYER
+,JEFF ZHOU ";Delaware;2016
+NASDAQ_AMKR_2016.pdf;Amkor Technology, Inc.;Net sales;3,893,635 $;USD;Net income;167,304 ;Stephen D. Kelley;James J. Kim;James J. Kim,John T. Kim,Susan Y. Kim,Roger A. Carolin,Winston J. Churchill,Stephen D. Kelley,Megan Faust;USA;2016
+NYSE_NCR_2016.pdf;NCR CORPORATION;Revenue;6543000000;USD;Gross margin;1782000000;William R. Nuti;William R. Nuti;Gregory R. Blank,Edward P. Boykin ,Chinh E. Chu,Richard L. Clemmer,Gary Daichendt ,Robert P. DeRodes,Kurt P. Kuehn ,Linda Fayne Levinson ;UNITED STATES;2016
+NYSE_BCEI_2016.pdf;Bonanza Creek Energy Inc.;total operating net revenues;195,295T;USD;net income(loss);198950T;Richard J. Carty;James A. Watt;Richard J. Carty,Kevin A. Neveu,Gregory P. Raih,Jeff E. Wojahn;Colorado;2016
+NASDAQ_DDD_2015.pdf;3D SYSTEMS CORPORATION;Consolidated Revenue;666,163;USD;Gross profit;291,809;Andrew M. Johnson; G. WALTER LOEWENBAUM, II;JIM D. KEVER,KEVIN S. MOORE,DANIEL S. VAN RIPER,WILLIAM E. CURRAN, KAREN E. WELKE,PETER H. DIAMANDIS,WILLIAM D. HUMES,THOMAS ERICKSON;UNITED STATES;2015
+NASDAQ_IQNT_2014.pdf;Inteliquent inc.;revenue;220508T;USD;Net income(loss);38523T;G. Edwards Evans;James P. Hynes;James P. Hynes,G. Edward Evans,Edward M. Greenberg,Lawrence M. Ingeneri,Timothy A. Samples,Rian J. Wren,Joseph A. Beatty,Joseph A. Beatty;chicago,illinois;2014
+NYSE_IMN_2015.pdf;IMATION CORP.;Net revenue;5292000000;USD;Gross profit ;1013000000;ROBERT B. FERNANDER;Joseph DePerio;"Joseph De Perio
+,Tracy McKibben,Donald Putnam
+,Robert Searing
+,Alex Spiro
+";UNITED STATES;2015
+NASDAQ_EPAY_2016.pdf;Bottomline Technologies;total segment revenue;343274T;USD;total measure of segment profit;61506T;Robert A. Eberle;JOSEPH L. MULLEN;ROBERT A. EBERLE,Joseph L. Barry Jr., Michael J. Curran, Kenneth J. D’Amato,Peter Gibson,Jennifer M. Gray,Jeffrey C. Leathe,James L. Loomis,Daniel M. McGurl,Benjamin E. Robinson III,James W. Zilinski;Portsmouth, New Hampshire;2016
+NASDAQ_IDSY_2016.pdf;I.D. Systems Inc.;net revenue;1,852,000;USD;net(loss) income;211,000;Chris A. Wolfe;none;Kenneth Brakebill,Michael Brodsky,Michael Casey,Ron Konezny;Woodcliff Lake, New Jersey;2016
+NYSE_CSC_2015.pdf;COMPUTER SCIENCES CORPORATION;Revenues ;12,173000000;USD;Gross favorable;112000000;J. Michael Lawrie ;Rodney F. Chase;David J. Barram,;UNITED STATES;2015
+NASDAQ_SMCI_2015.pdf;Supermicro;Net sales;1,991,155000;USD;Gross profit;320,231000 ;CHARLES LIANG ;CHARLES LIANG ;"Laura Black,Michael S. McAndrews,Hwei-Ming (Fred) Tsai
+,Sherman Tuan
+";UNITED STATES;2015
+NASDAQ_TNAV_2016.pdf;Telenav inc.;revenue;183,346T;USD;Net loss;35321T;DR. HP Jin;DR. HP Jin;none;santa clara,ca;2016
+AIM_XGT_2016.pdf;XG TECHNOLOGY, INC.;Revenues;6,574;USD;income;29,434;George Schmitt;George Schmitt; George Schmitt,John C. Coleman,Richard L. Mooers,Gary Cuccio, Raymond M. Sidney,Kenneth Hoffman,James T. Conway;Sarasota, FL;2016
+NYSE_BAS_2010.pdf;basic energy services;revenue;750M;USD;net income;200M;Kenneth V. Huseman;Steven A. Webster;Steven A. Webster,Kenneth V. Huseman,William E. Chiles ,James S. D’Agostino Jr,Robert F. Fulton,Sylvester P. Johnson IV,Antonio O. Garza Jr,Thomas P. Moore, Jr. ;Midland, Texas;2010
+NASDAQ_CCOI_2010.pdf;COGENT COMMUNICATIONS GROUP, INC;Service revenue;263,416000;USD;Net (loss) income;669000;DAVID SCHAEFFER;DAVID SCHAEFFER;EREL MARGALIT,TIMOTHY WEINGARTEN,STEVEN BROOKS,RICHARD T. LIEBHABER,DAVID BLAKE BATH,MARC MONTAGNER;UNITED STATES;2010
+NASDAQ_MFLX_2010.pdf;MULTI-FINELINE ELECTRONIX, INC.;Net sales;226,715000;USD;Gross profit;32,027000;Reza Meshgin;Philip A. Harding ;PHILIPPE LEMAITRE,LINDA LIM, PH.D,DONALD SCHWANZ,CHOON SENG TAN,SAM YAU;UNITED STATES;2010
+NYSE_ANR_2009.pdf;Alpha natural resources;total revenue;2,554,124 T;USD;Net income;165,537T;Michael J. Quillen ;Michael J. Quillen ;Mary Ellen Bowers ,John S. Brinzo ,Kevin S. Crutchfield ,E. Linn Draper Jr., Glenn A. Eisenberg ,John W. Fox, Jr. ,Ted G. Wood ;ABINGDON, VA;2008
+NYSE_BHI_2002.pdf;Performance;Revenues;5,0204000000;USD;Net income (loss);1689000000;Michael E. Wiley;Michael E. Wiley;CLARENCE P. CAZALOT, JR.,EDWARD P. DJEREJIAN,ANTHONY G. FERNANDES,CLAIRE W. GARGALLI,RICHARD D. KINDER,JAMES A. LASH,JAMES F. MCCALL,J. Larry Nichols,H. JOHN RILEY, JR.,CHARLES L. WATSON;UNITED STATES;2002
+ASX_ARI_2007.pdf;onesteel limited ;total revenue;4334.5M;USD;Net Profit After Tax and Minorities;207M;Geoff Plummer;Peter Smedley;P J Smedley,R B Davis,E J Doyle,C R Galbraith,P G Nankervis,G J Plummer,D A Pritchard,N J Roach;Australia;2007
+NYSE_APC_2011.pdf;ANADARKO PETROLEUM CORPORATION;total revenue;13,967M;USD;Net income (loss) attributable to common stockholders;2649M;James T. Hackett;James T. Hackett;Kevin P. Chilton ,Luke R. Corbett,H. Paulett Eberhart,Peter J. Fluor,Preston M. Geren III,John R. Gordon,James T. Hackett,Paula Rosput Reynolds;Texas;2011
+NYSE_CBT_2008.pdf;Cabot Corporation;Gross profit;3,191M;USD;Net income;86M;Patrick M. Prevost;Patrick M. Prevost;John F. O’Brien ,John S. Clarkeson,Juan Enriquez-Cabot,Arthur L. Goldstein,Gautam S. Kaji,Roderick C.G. MacLeod ,Henry F. McCance,John M. McGillicuddy,Ronaldo H. Schmitz,Lydia W. Thomas,Mark S. Wrighton,Shengman Zhang;Washington, D.C;2008
+NASDAQ_AHGP_2008.pdf;Core coal;ebitda;257,812T;USD;Net income;134,176;Joseph W. Craft III;Joseph W. Craft III;Joseph W. Craft III,Charles R. Wesley,Michael J. Hall,John P. Neafsey,John H. Robinson,Wilson M. (Mack) Torrence;tulsa, oklahoma;2008
+NYSE_ATW_2012.pdf;Atwood Oceanics ;operating revenue;787,421;USD;Net income;272,171;Rob Saltiel;George Dotson;Deb Beck,Jack Golden ,Hans Helmerich,Jim Montague,Rob Saltiel,Phil Wedemeyer;TEXAS;2012
+NYSE_MXPT_2015.pdf;Maxpoint Interactive, Inc.;Revenue net;140127k;USD;Gross profit;71447k;Joseph Epperson;Joseph Epperson;Joseph Epperson, Brad Schomber, Kevin Dulsky, Lynnette Frank,  Len Jordan, Augustus Tai;Morrisville, North Carolina;2015
+NYSE_BBG_2015.pdf;Bill Barrett Corporation;Total operating and other revenues;207,892 thousand;USD;Net Income (loss);487,771 thousand;R. SCOT WOODALL;Jim W. Mogg;Carin M. Barth,Kevin O. Meyers,William F. Owens,Edmund P. Segner,Randy I. Stein,Michael E. Wiley,;Denver;2015
+NASDAQ_SCON_2016.pdf;SUPERCONDUCTOR TECHNOLOGIES INC.;Cost of Revenues;3,444,000;USD;Gross loss;3,313;Jeffrey A. Quiram;Martin A. Kaplan;Lynn J. Davis,Dan L. Halvorson;UNITED STATES;2016
+NASDAQ_AMRS_2015.pdf;Amyris;Total revenues;34,153;USD;Net income;218,052;John G. Melo ;Geoffrey Duyk;Philippe Boisseau,John Doerr,Geoffrey Duyk,Margaret Georgiadis,Abraham Klaeijsen,John Melo,Carole Piwnica,Fernando Reinach,R. Neil Williams,HH Sheikh Abdullah bin Khalifa Al,Patrick Yang;USA;2015
+NYSE_APA_2010.pdf;Apache;Revenues;12.1 billion;USD;Net income;3 billion;G. Steven Farris;G. Steven Farris;Frederick M. Bohen,G. Steven Farris,Randolph M. Ferlic, M.D. ,Eugene C. Fiedorek,A.D. Frazier, Jr.,Patricia Albjerg Graham,Scott D. Josey,Chansoo Joung,John A. Kocur,George D. Lawrence ,F. H. Merelli,Rodman D. Patton,Charles J. Pitman;Australia;2010
+NASDAQ_MSTR_2016.pdf;MICROSTRATEGY INCORPORATED;Total revenues;512,161000;USD;Gross profit;419,014000;MICHAEL J. SAYLOR;MICHAEL J. SAYLOR;ROBERT H. EPSTEIN,STEPHEN X. GRAHAM,JARROD M. PATTEN,CARL J. RICKERTSEN;UNITED STATES;2016
+AMEX_GVP_2016.pdf;GSE SYSTEMS INC;Revenue;53,101000;USD;Gross profit;15,244000;Kyle J. Loudermilk;Dr. Roger Hagengruber;Jane Bryant Quinn,Joseph W. Lewis,Suresh Sundaram;UNITED STATES;2016
+NASDAQ_AREX_2010.pdf;APPROACH RESOURCES INC.;Revenues ;57,581000;USD;Net income (loss);7,462000;J. Ross Craft;Bryan H. Lawrence;Alan D. Bell,James H. Brandi,James C. Crain,Sheldon B. Lubar,Christopher J. Whyte;UNITED STATES;2010
+NYSE_DNB_2016.pdf;The Dun & Bradstreet Corporation;Revenue;1,7037000000;USD;Operating Income;3592000000;Bob Carrigan;Bob Carrigan;Thomas J. Manning;UNITED STATES;2016
+ASX_BLY_2015.pdf;Boart Longyear;Revenue;735 million;USD;Net Profit After Tax;-132 million;Jeff Olsen;Marcus Randolph;Marcus Randolph,Bret Clayton,Peter Day,Jonathan Lew insohn,Jeffrey Long,Gretchen McClain,Rex McLennan,Deborah O'Toole,Barbara Jeremiah,Bruce Brook,Roy Franklin,Tanya Fratto,David McLemore,Conor Tochilin;Utah;2015
+NYSE_APC_2013.pdf;Anadarko;Revenue;14,581 ;USD;Sales Revenue;13,828;R. A. Walker;R. A. Walker;ANTHONY R. CHASE,KEVIN P. CHILTON,H. PAULETT EBERHART,PETER J. FLUOR,RICHARD L. GEORGE,PRESTON M. GEREN III,CHARLES W. GOODYEAR,JOHN R. GORDON,ERIC D. MULLINS,PAULA ROSPUT REYNOLDS;Washington, D.C;2013
+NYSE_QTWO_2016.pdf;Q2 Holdings, Inc.;Revenues;150,224;USD;gross profit;72,795;Matthew P. Flake;" R. H. ""HANK"" SEALE III";MICHAEL M. BROWN,JEFFREY T. DIEHL, CHARLES T. DOYLE,MICHAEL J. MAPLES SR, JAMES R. OFFERDAHL,CARL JAMES SCHAPER;Washington, D.C;2016
+NASDAQ_TTGT_2009.pdf;TechTarget;Total Revenue;86497 thousand;USD;Gross profit;61519;Greg Strakosch;Greg Strakosch;"Greg Strakosch,
+Eric Sockol,
+Leonard Forman,
+Jay Hoag,
+Bruce Levenson,
+Roger Marino";Delaware;2009
+NASDAQ_STX_2016.pdf;SEAGATE TECHNOLOGY PLC;Revenue;11160m;USD;Net income;248m;STEPHEN J. LUCZO;STEPHEN J. LUCZO;STEPHEN J. LUCZO,  DAVID H. MORTON JR.,  FRANK J. BIONDI JR., MICHAEL R. CANNON, MEI-WEI CHENG,   WILLIAM T. COLEMAN III, JAY L. GELDMACHER,  DAMBISA MOYO, KRISTEN M. ONKEN,  C.S. PARK,  STEPHANIE TILENIUS, EDWARD J. ZANDER;Ireland;2016
+NASDAQ_OMCL_2014.pdf;OMNICELL, INC.;Total Revenue;440,900;USD;gross profit;202,768;Randall A Lipps;Randall A Lipps;Randall A Lipps,J Christopher Drew,Robin G Seim,Dan S Johnston,Nhat H Ngo,Jorge R Taborga;Washington, D.C;2014
+NASDAQ_AREX_2008.pdf;Approach Resources INC;Total oil and gas sales ;79,869 thousand;USD;Net income;23,386 thousand;J. Ross Craft;Bryan H. Lawrence; James H. Brandi,James C. Crain, Sheldon B. Lubar,Christopher J. Whyte;Texas;2008
+NASDAQ_PCYG_2016.pdf;park city group;Revenue;14010693 thousand;USD;Net Loss;666503 thousand;Randall K. Fields;Robert W. Allen;"Randall K. Fields ,
+Todd Mitchell,
+Robert W. Allen,
+William S. Kies, Jr.,
+Richard Juliano,
+Austin F. Noll, Jr.,
+Ronald C. Hodge";Nevada;2014
+NASDAQ_QSII_2016.pdf;QUALITY SYSTEMS, INC.;Revenue;492,477;USD;Gross profit;266,862;John R. Frantz;Jeffrey H. Margolis ;Jeffrey H. Margolis, Craig A. Barbarosh, George H. Bristol, James C. Malone, Morris Panner, D. Russell Pflueger,Lance E. Rosenzweig;California;2016
+NASDAQ_FIVN_2016.pdf;FIVN9, INC.;revenues;162.1 million;USD;net loses;11.9 million;Michael Burkland;Michael Burkland;Michael Burkland,  Jack Acosta,  Kimberly Alexy, Michael Burdiek, Jayendra Das, David DeWalt, David Welsh, Robert Zollars;USA;2016
+NYSE_ABX_2008.pdf;BARRICK GOLD CORPORATION;Revenues;7,913;USD;Net income;785 ;Aaron Regent;Peter Munk;Howard L. Beck,Marshall A. Cohen,Aaron W. Regent,J. Brett Harvey,C. William D. Birchall,Peter A. Crossgrove,Donald J. Carty,Robert M. Franklin,Steven J. Shapiro,Gustavo A. Cisneros,Peter C. Godsoe,Peter Munk;CANADA;2008
+NYSE_ADR_2016.pdf;BITAUTO HOLDINGS LIMITED;Revenue;831,477;USD;Gross Profit;532,186;Bin Li;Bin Li;Bin Li,Xuan Zhang, Sidney Xuande Huang,Joseph Luppino, Erhai Liu, Yu Long, Jun Hou;The People’s Republic of China;2016
+NYSE_WK_2016.pdf;WORKIVA INC;Total revenue;178,646 ;USD;Net loss;43,977;Mathew Rizai;Mathew Rizai;Mathew M. Rizai,Martn J. Vanderploeg,Michael M. Crow,Robert H. Herz,Eugene S. Katz ,David S. Mulcahy,David S. Mulcahy;USA;2016
+NYSE_NMBL_2015.pdf;Nimble Storage, Inc.;Total revenue;227,673;USD;Net loss;98,846;Suresh Vasudevan;;Suresh Vasudevan, Frank Calderoni ,James J. Goetz, William D. Jenkins Jr. ,Jerry M. Kennelly ,Ping Li ,William J. Schroeder;USA;2015
+NYSE_KEYS_2016.pdf;keysight technologies;net revenue;2918m;USD;net income;335m;Ronald S. Nersesian;Paul N. Clark, James G. Cullen;Paul N. Clark, Ronald S. Nersesian, James G. Cullen, Charles J. Dockendorff, Jean M. Halloran, Richard Hamada, Robert A. Rango, Mark B. Templeton;california;2016
+NYSE_RTEC_2016.pdf;rudolph technologies;cost of revenues;109229k;USD;gross profit;123551k; Michael P. Plisinski; Michael P. Plisinski;Jeffrey A. Aukerman, Leo Berlinghieri, Daniel H. Berry, Thomas G. Greig, David B. Miller, John R. Whitten;Massachusetts;2016
+NYSE_APC_2016.pdf;ANADARKO PETROLEUM CORPORATION;Sales revenue;8447m;USD;Income (Loss);2808m;R. A. Walker;R. A. Walker;Anthony R. Chase, Kevin P. Chilton, David E. Constable, H. Paulett Eberhart, Claire S. Farley, Peter J. Fluor, Richard L. George, Joseph W. Gorder, John R. Gordon, Sean Gourley, Mark C. McKinley, Eric D. Mullins, R. A. Walker;The Woodlands, Texas;2016
+NASDAQ_PCTY_2016.pdf;paylocity holding corp;total cost of revenues;29094kf;USD;gross profit;26002k;Steven R. Beauchamp;Steven I. Sarowitz;Steven I. Sarowitz, Jeffrey T. Diehl, Mark H. Mishler, Andres D. Reiner, Ronald V. Waters III;illinois;2016
+NYSE_BPZ_2011.pdf;BPZ Resources, Inc.;Total net revenue;143740k;USD;Net loss;33827k;Manuel Pablo Zúñiga-Pflücker;James B. Taylor ;Manuel Pablo Zúñiga-Pflücker, James B. Taylor, GORDON GRAY, STEPHEN C. BEASLEY,  RICHARD S. MENNITI,  JOHN J. LENDRUM, III,  DENNIS G. STRAUCH;Texas;2011
+OTC_MFCO_2016.pdf;microwave filter company;net sales;3545330 ;USD;gross profit;1300147;Paul W. Mears;Robert Andrews;Paul W. Mears, Robert Andrews;new york;2016
+ASX_BSL_2014_a118cd4118b749a3abe6393aac0c2005.pdf;bluescope;total revenue;8006.9m;AUD;net loss;82.4m;Paul O’Malley;Graham Kraehe;Graham John Kraehe AO, Ronald John McNeilly, Daniel Bruno Grollo, Kenneth Alfred Dean, Paul Francis O’Malley, Penelope Bingham-Hall, Ewen Graham Wolseley Crouch AM. Lloyd Hartley Jones, John Andrew Bevan, Rebecca Patricia Dee-Bradbury, Tan Yam Pin;melbourne;2014
+NASDAQ_ARLP_2016.pdf;for the long haul;sales revenue;1.86b;USD;net loss;140k;JOSEPH W. CRAFT III;JOSEPH W. CRAFT III;Joseph W. Craft III, Brian L. Cantrell, R. Eberley Davis, Robert G. Sachse, Charles R. Wesley, Thomas M. Wynne, Nick Carter, John P. Neafsey, John H. Robinson, Wilson M. Torrence, Thomas M. Davidson Sr, Robert J. Druten;Oklahoma;2016
+NASDAQ_CSOD_2016.pdf;Cornerstone OnDemand Inc.;revenue;423124k;USD;gross profit;287372k; Adam L. Miller;;Adam L. Miller, Brian L. Swartz, R. C. Mark Baker, Harold W. Burlingame, Robert Cavanaugh, Joseph Payne, Kristina Salen;California;2016
+AMEX_BRN_2005.pdf;Barnwell Industries, Inc.;revenues;44210000;USD;net earnings;6027000;Morton H. Kinzler;Morton H. Kinzler;Morton H. Kinzler, Alexander C. Kinzler, Erik  Hazelhoff-Roelfzema, Alan D. Hunter, Martin Anderson, Murray C. Gardner, Terry Johnston, Diane G. Kranz, Kevin K. Takata, Russell M. Gifford;Honolulu, Hawaii, United States;2005
+NASDAQ_SOFO_2016.pdf;sonicfoundry;cost of revenue;9985k;USD;net loss;3317k;Gary R. Weis;Mark D. Burish;Gary R. Weis, David C. Kleinman, Mark D. Burish, Frederick H. Kopko Jr,  ;Wisconsin;2016
+AMEX_DPW_2015.pdf;DIGITAL POWER CORP;Revenues;7766k;USD;Net loss;1096k;Amos Kohn;Ben-Zion Diamant;Ben-Zion Diamant, Amos Kohn, Haim Yatim, Israel Levy, Moti Rosenberg;California;2015
+NASDAQ_ATRM_2010.pdf;aetrium;net sales;16.3m;USD;gross profit;6.73m;John J. Pollock;Joseph C. Levesque ;Joseph C. Levesque, Darnell L. Boehm, Terrence W. Glarner, Daniel A. Carr, Charles B. Westling, John J. Pollock, Douglas L. Hemer;Minnesota;2010
+NYSE_ALB_2006.pdf;Albemarle;net sales;2638506k;USD;net income;201370k;Mark C. Rohr ;William M. Gottwald;William M. Gottwald, Floyd D. Gottwald Jr., Mark C. Rohr, J. Alfred Broaddus Jr., John D. Gottwald, R. William Ide III, Richard L. Morrill, Seymour S. Preston III, John Sherman Jr., Charles E. Stewart, Harriett Tee Taggart, Anne Marie Whittemore;North Carolina;2006
+NYSE_BHI_2012.pdf;Baker Hughes;revenue;21361m;USD;net income;1317m;Martin S. Craighead;Chad C. Deaton;Larry D. Brady, Clarence P. Cazalot Jr., Martin S. Craighead, Chad C. Deaton, Lynn L. Elsenhans, Anthony G. Fernandes, Claire W. Gargalli, Pierre H. Jungels CBE, James A. Lash, J. Larry Nichols, H. John Riley Jr., James W. Stewart, Charles L. Watson;Texas;2012
+NYSE_ACI_2004.pdf;arch coal inc;revenues;1907.2m;USD;;;STEVEN F. LEER;FRANK M. BURKE;JAMES R. BOYD, STEVEN F. LEER, DOUGLAS H. HUNT, PATRICIA FRY GODLEY,FRANK M. BURKE, THOMAS A. LOCKHART, A. MICHAEL PERRY, ROBERT G. POTTER, THEODORE D. SANDS;Missouri;2004
+ASX_CNU_2016.pdf;chorus;total revenue;1008m;AUD;net profit;91m;Mark Ratcliffe;Patrick Strange ;Patrick Strange, Jon Hartley, Anne Urlwin, Clayton Wakefield, Keith Turner, Mark Ratcliffe, Murray Jordan, Prue Flacks;Wellington;2016
+NASDAQ_MENT_2015.pdf;MENTOR GRAPHICS CORPORATION;total revenues;1244133k;USD;Net income;147139k;WALDEN C. RHINES;WALDEN C. RHINES;WALDEN C. RHINES, GREGORY K. HINCKLEY, KEITH L. BARNES,  SIR PETER L. BONFIELD, PAUL A. MASCARENAS,  J. DANIEL MCCRANIE, PATRICK B. MCMANUS, JEFFREY M. STAFEIL;Wilsonville, Oregon;2015
+AMEX_BRN_2004.pdf;barnwell industries inc;net earnings;8710000;USD;;;Morton H Kinzler;Morton H Kinzler;Morton H Kinzler, Erik Hazelhoff Roelfzema, Alan D Hunter, Martin Anderson, Murray C Gardner, Terry Johnson, Diane G Kranz, Kevin K Takata, Rissell M Gifford, Alexander C Kinzler;Hawaii;2004
+NYSE_APD_2003.pdf;air products;sales;6297m;USD;net income;397m;John P. Jones III;John P. Jones III;John P. Jones III, Mario L. Baeza, Michael J. Donahue, Ursula F. Fairbairn, Edward E. Hagenlocker, James F. Hardymon, Terrence Murray, Charles H. Noski, Paula G. Rosput, Lawrason D. Thomas;;2003
+NASDAQ_TWER_2016.pdf;TOWERSTREAM CORPORATION;Revenues;26895613;USD;Net loss;20436496;Ernest Ortega;Philip Urso;Philip Urso, Ernest Ortega, Frederick Larcombe, Howard L. Haronian, William J. Bush, Paul Koehler;Middletown, Rhode Island, United States;2016
+NYSE_FIT_2016.pdf;fitbit inc;revenue;2169461k;USD;gross profit;845884k;James Park;James Park;James Park, Laura J. Alber, Jonathan D. Callaghan, Glenda Flanagan, Steven Murray, Christopher Paisley;California;2016
+NASDAQ_AXTI_2016.pdf;AXT, INC.;Revenue;81349k;USD;Net income;5636k;Morris S. Young;Jesse Chen;Morris S. Young, David C. Chang, Jesse Chen, Leonard J. LeBlanc;California;2016
+NYSE_TDC_2016.pdf;teradata;total revenue;2322m;USD;total income;232m;Daniel R. Fishback;James M. Ringler;James M. Ringler, Lisa R. Bacus, Timothy C.K. Chou, Nancy E. Cooper, Cary T. Fu, Daniel R. Fishback, Michael P. Gianoni, David E. Kepler, Victor L. Lund, John G. Schwarz, William S. Stavropoulos;ohio;2016
+NYSE_APA_2014.pdf;Apache;Revenues;13,851 millions;USD;Net income (loss);4,886;JOHN J. CHRISTMANN;G. Steven Farris;G. STEVEN FARRIS, ANNELL R. BAY, A.D. FRAZIER JR, CHANSOO JOUNG, GEORGE D. LAWRENCE, JOHN E. LOWE, WILLIAM C. MONTGOMERY,  AMY H. NELSON, RODMAN D. PATTON, CHARLES J. PITMAN, PETER A. RAGAUSS;Texas, USA;2014
+ASX_BSL_2013.pdf;BlueScope;Total revenue;7,290.3 M;USD;Net loss;62.6 M;P F O'Malley;Graham Kraehe AO;Graham Kraehe AO, Ron McNeilly,Tan Yam Pin,Daniel Grollo,Paul O’Malley,Ken Dean,Penny Bingham-Hall,Ewen Crouch AM;Melbourne, Australia;2013
+NYSE_COG_2013.pdf;Cabot Oil & Gas Corporation;Operating Revenue;979.9 M;USD;Net Income;122.4 M;Dan O. Dinges;Dan O. Dinges;Dan O. Dinges, Rhys J. Best, James R. Gibbs, Robert L. Keiser, Robert Kelley, P. Dexter Peacock, W. Matt Ralls;Texas, USA;2013
+ASX_BLY_2007.pdf;Boart Longyear;Revenues;1,571 million;USD; net profit after tax;81 million;Paul Brunner;GRAHAM BRADLEY;Graham Bradley, Geoff Handley, Peter St. George, Bruce Brook, David McLemore, Paul Brunner ;USA;2007
+NASDAQ_LLNW_2016.pdf;Limelight Networks, Inc.;Revenues;168,234;USD;Net loss;73,925);Robert Lento;WALTER D. AMARAL;ROBERT A. LENTO,WALTER D. AMARAL, JEFFREY T. FISHER, JOSEPH H. GLEBERMAN, MARK MIDLE, DAVID C. PETERSCHMIDT;USA;2016
+NYSE_AA_2013.pdf;Alcoa;Sales;23032m;USD;Loss;2285m;Klaus Kleinfeld;Klaus Kleinfeld;Klaus Kleinfeld, Arthur D. Collins Jr., Kathryn S. Fuller, Judith M. Gueron, Michael G. Morris, E. Stanley O’Neal, James W. Owens, Carol L. Roberts, Patricia F. Russo, Martin S. Sorrell, Ratan N. Tata, Ernesto Zedillo;Pittsburgh;2013
+NASDAQ_POWI_2016.pdf;power integrations;net revenue;387393k;USD;gross profit;191.2m;Balu Balakrishnan;E. Floyd Kvamme;E. Floyd Kvamme,  STEVEN J. SHARP,  BALAKRISHNAN S. IYER,  WILLIAM GEORGE,  NICHOLAS E. BRATHWAITE, / ALAN D. BICKELL;california;2016
+NASDAQ_SGI_2014.pdf;SILICON GRAPHICS INTERNATIONAL CORP. ;Revenue;529946k;USD;Net loss;52814k;Jorge L. Titinger;Ronald D. Verdoorn;Ronald D. Verdoorn, Hagi Schwartz, Douglas R. King, Michael W. Hagee, Gary A. Griffiths, Charles M. Boesenberg, Jorge L. Titinger ;California;2014
+NYSE_ANET_2015.pdf;arista networks inc;revenue;837591k;USD;total gross profit;543560;Jayshree Ullal;Andreas Bechtolsheim;Jayshree Ullal, Ita Brennan, Andy Bechtolsheim, Charles Giancarlo, Ann Mather, Dan Scheinman, MARC STOLL, Nikos Theodosopoulos;california;2015
+NYSE_BSM_2016.pdf;Black Stone Minerals, L.P.;Total revenue;260833k;USD;Net income;20188k;Thomas L. Carter Jr.;Thomas L. Carter Jr.;Thomas L. Carter Jr., William G. Bardel, Carin M. Barth, D. Mark DeWalch, Ricky J. Haeflinger, Jerry V. Kyle Jr., Michael C. Linn, John H. Longmaid, William N. Mathis, Alexander D. Stuart, Allison K. Thacker;Houston, Texas;2016
+NASDAQ_ASMI_2016.pdf;asm international;net sales;669.6m;Euro;gross profit;264.5m;CHARLES  D. (CHUCK) DEL PRADO ;CHARLES  D. (CHUCK) DEL PRADO ;"CHARLES 
+D. (CHUCK) DEL PRADO , PETER A.M. VAN BOMMEL, ";Almere;2016
+NASDAQ_AREX_2016.pdf;APPROACH RESOURCES INC.;Revenues;90302k;USD;Net loss;52243k;J. Ross Craft;J. Ross Craft;J. Ross Craft, Vean J. Gregg, Alan D. Bell, James H. Brandi, James C. Crain, Matthew R. Kahn, Morgan D. Neff, Matthew D. Wilks;Texas;2016
+NYSE_BPT_2009.pdf;BP PRUDHOE BAY ROYALTY TRUST;Royalty revenue;130014k;USD;na;na;na;na;na;Delaware;2009
+NASDAQ_ACET_2004.pdf; Aceto Corporation;Net sales;297718k;USD;Net income;13067k;Leonard S. Schwartz;Leonard S. Schwartz;Stanley Fischer, Samuel I. Hendler, Robert Wiesen, Ira S. Kallem, Albert L. Eilender, Hans C. Noetzl;New York;2014
+NYSE_TDOC_2016.pdf;teladoc;Revenue;123157k;USD;Net loss;74216k;Jason Gorevic;David B. Snow, Jr.;"Jason Gorevic,
+Mark Hirschhorn ,
+David B. Snow, Jr,
+William H. Frist, M.D. ,
+Michael Goldstein,
+Thomas G. McKinley ,
+Arneek Multani ,
+James Outland ,
+Helen Darling ,
+David Shedlarz";Delaware;2016
+NASDAQ_SEV_2015.pdf;sevcon inc;sales;41142k;USD;gross profit;15834k;Matthew Boyle;;Matthew Boyle, Paul N. Farquhar, Maarten D. Hemsley, Marvin G. Schorr, David R. A. Steadman, Paul O. Stump, Frederick. A. Wang, William J. Ketelhut, Glenn J. Angiolillo, Ryan J. Morris, Walter M. Schenker;Massachusetts;2015
+NYSE_ACI_2013.pdf;arch coal inc;revenues;3014357k;USD;net loss;641832k;JOHN W. EAVES;Steven F. Leer;ohn W. Eaves, David D. Freudenthal, Patricia F Godley, Paul T. Hanrahan, Douglas H. Hunt, . Thomas Jones, Paul A. Lang, Steven F. Leer, George C. Morris III, Theodore D. Sands, Wesley M. Taylor, Peter I. Wold ;Missouri;2013
+NYSE_BCEI_2012.pdf;bonanza creek;revenues;231205k;USD;net income; 46523k;Michael R. Starzer;R ICHARD   J.  C ARTY;"R
+ICHARD
+  J.  C
+ARTY, M
+ARVIN
+  M.  C
+HRONISTER, K
+EVIN
+  A.  N
+EVEU, G
+REGORY
+  P.  R
+AIH,  J
+AMES
+  A.  W
+ATT, J
+AMES
+  A.  W
+ATT, M
+ICHAEL
+  R.  S
+TARZER, Gary  A.  Grove, Wade  E.  Jaques";Colorado;2012
+NYSE_SLI_2011.pdf;sl industries inc;net sales;212331 k;USD;net income;8198k;William T. Fejes ;Glen M. Kassan ;Glen M. Kassan, William T. Fejes, Louis J. Belardi , Warren G. Lichtenstein, Avrum Gray, James A. Risher , Mark E. Schwarz;New Jersey;2011
+NASDAQ_ARLP_2009.pdf;Alliance Resource Partners, L.P;Cash flows;282741k;USD;Net income;192157k;Joseph W. Craft III ;Joseph W. Craft III ;;Oklahoma;2009
+NASDAQ_ACET_2011.pdf;aceto corporation;net sales;412428k;USD;net income;8968k;Albert L. Eilender;Albert L. Eilender;Albert L. Eilender, Vincent G. Miata, Robert Wiesen, Hans C. Noetzli, William Britton, Richard P. Randall, Salvatore Guccione;new york;2011
+NYSE_AXU_2007.pdf;Alexco Resource Corp;Consulting Revenue;4053k;CAD;Gross profit;1130k;Clynton R. Nauman;na;"Clynton R. Nauman,
+Ed Flood,
+David Searle,
+Rick Van Nieuwenhuyse,
+Michael Winn,
+George Brack,
+";Vancouver;2007
+NYSE_RATE_2015.pdf;bankrate inc;revenue;370534k;USD;net loss;13346k;Kenneth S. Esterow;Peter C. Morse;"Kenneth S. Esterow,  Steven D. Barnhart, Janet M. Gunzburg, Peter C. Morse, Seth Brody, Michael J. Kelly, Sree Kotay, Christine Petersen, Richard 
+J. 
+Pinola, Mitch Truwit, Steven D. Barnhart";new york;2015
+NYSE_ZEN_2016.pdf;ZENDESK;Revenue;311999k;USD;Gross profit;218099k;Mikkel Svane;Mikkel Svane;"Mikkel Svane,
+Elena Gomez,
+Carl Bass,
+Peter Fenton,
+Caryn Marooney,
+Elizabeth Nelson,
+Dana Stalder,
+Michelle Wilson";Delaware;2016
+NASDAQ_AMAT_2016.pdf;Applied Materials, Inc.;Net sales;2257;USD;Gross profit;916;Gary E. Dickerson;Willem P. Roelandts;Gary E. Dickerson, Willem P. Roelandts, Judy Bruner, Xun Chen, Aart J. de Geus, Stephen R. Forrest, Thomas J. Iannotti, Susan M. James, Alexander A. Karsner, Adrianna C. Ma, Dennis D. Powell;California;2016
+ASX_ATC_2011.pdf;australia minerals and mining group inc;na;na;USD;na;na;Daniel Lewis Tenardi;Luke Atkins;Luke Atkins, Ric Dawson, David Brook, Chris Forrester, Daniel Tenardi;australia;2011
+NYSE_BAS_2013.pdf;Basic Energy Services;Revenue;1250000k;USD;Net Loss;36000k;T.M. Roe Patterson;Steven A. Webster;"T.M. Roe Patterson,
+Steven A. Webster,
+Ken V. Huseman,
+William E. Chiles,
+James S. D'Agostino Jr.,
+Robert F. Fulton,
+Sylvester P. Johnson, IV,
+Antonio O. Garza Jr.,
+Thomas P. Moore Jr.";Texas;2013
+NYSE_BAK_2011.pdf;Braskem;Revenue;6.5b;USD;Loss;517m;Carlos Fadigas;Marcelo Bahia Odebrecht;Marcelo Bahia Odebrecht, José Carlos Cosenza, Alfredo Lisboa Ribeiro Tellechea, Almir Guilherme Barbassa, Álvaro Fernandes da Cunha Filho, Felipe Montoro Jens, Francisco Pais, José Alcides Santoro Martins, Luiz de Mendonça, Newton Sergio de Souza, Roberto Zurli Machado;Houston, Texas;2011
+NASDAQ_DSGX_2016.pdf;THE DESCARTES SYSTEMS GROUP;Revenue;203779k;USD;Gross Margin;56051k;Edward J. Ryan;Eric A. Demirian;na;Waterloo;2017
+NASDAQ_CVLT_2016.pdf;Commvault;Revenue;595126k;USD;Gross Margin;512414k;N. Robert Hammer;N. Robert Hammer;"N. Robert Hammer,
+Brian Carolan,
+Gary Merrill,
+Alan G. Bunte,
+Joseph F. Eazor,
+Frank J. Fanzilli, Jr.,
+Armando Geday,
+Keith Geeslin,
+F. Robert Kurimsky,
+Daniel Pulver,
+Gary Smith,
+David F. Walker";New Jersey;2016
+NASDAQ_PEGA_2016.pdf;PEGASYSTEMS;Total Revenue;750266k;USD;Net Income;26986 k;Alan Trefler;Alan Trefler;"Alan Trefler,
+Kenneth Stillwell,
+Efstathios Kouninis,
+Richard Jones,
+Peter Gyenes,
+Steven Kaplan,
+Dianne Ledingham,
+James O’Halloran,
+Sharon Rowlands,
+Larry Weber,
+William Wyman";Massachusetts;2016
+NYSE_ASH_2007.pdf;Ashland Inc;Sales and operating revenues ;7,785 million;USD;Operating income;216 million;James J. O’Brien;James J. O’Brien;Dr. Ernest H. Drew, Roger W. Hale, Bernadine P. Healy,Mannie L. Jackson,Kathleen Ligock,James J. O’Brien,Barry W. Perry,George A. Schaefer. Jr.,T. M. Tim Solso,John F. Turner,Michael J. Ward;Kentucky;2007
+NYSE_AMID_2012.pdf;AMERICAN MIDSTREAM PARTNERS LP;Total Revenue;210586T;USD;Net income(loss);6252T;Brian F. Bierbach ;Robert B. Hellman Jr.;Brian F. Bierbach,Donald H. Anderson,Eileen A. Aptman,Edward O. Diffendal,John F. Erhard,L. Kent Moore,Daniel R. Revers,Gerald A. Tywoniuk;Denver;2012
+NASDAQ_PMCS_2010.pdf;PMC-Sierra Inc. ;Net revenues;635,082 thousand;USD;Net income; 83,162 thousand;Gregory S. Lang;Robert L. Bailey;Richard E. Belluzzo, James V. Diller,William Kurtz,Frank Marshall,Jonathan Judge,Michael Farese;Delaware;2010
+NYSE_PRO_2016.pdf;PROS HOLDINGS, INC.;Total revenue;153,276;USD;Gross profit;89,923;Andres D. Reiner;Greg B. Petersen;Ellen Keszler,Greg B. Petersen,Leslie Rechan,Andres D. Reiner,William Russell,Timothy V. Williams,Mariette M. Woestemeyer,Ronald F. Woestemeyer;UNITED STATES;2016
+NYSE_AA_2000.pdf;ALCOA;Sales;22,936000000;USD;Net income;1,484000000;Alain J.P. Belda;Alain J.P. Belda;Paul H. O’Neill;UNITED STATES;2000
+NYSE_BHP_2012.pdf;bhp billiton;Revenue;72,226 million;USD;Profit from operations ;23,752 million;Marius Kloppers ;Jac Nasser;Jac Nasser,Marius Kloppers,Malcolm Broomhead,Sir John Buchanan,Carlos Cordeiro,David Crawford,Pat Davies,Carolyn Hewson ,Lindsay Maxsted,Wayne Murdy,Wayne Murdy,John Schubert ,Baroness Shriti Vadera;Melbourne;2012
+NASDAQ_AMSWA_2016.pdf;American Software;Total revenues ;113,889 thousand;USD;Net earnings;8,128 thousand;J. Michael Edenfield;James C. Edenfield ;James C. Edenfield ,W. Dennis Hogue,James B. Miller. Jr. ,Thomas L. Newberry, V. ,Vincent C. Klinges ,Bryan L. Sell ;Georgia;2016
+NYSE_APD_2008_832f4f58c4184a29bb22abf9edbb0c13.pdf;Financials;net sales;2256.5M;USD;net income;306.4M;John E. McGlade ;John E. McGlade ;John E. McGlade,Ursula O. Fairbairn,Margaret G. McGlynn,Mario L. Baeza,W. Douglas Ford,Charles H. Noski,William L. Davis,Edward E. Hagenlocker,Lawrence S. Smith,Michael J. Donahue,Evert Henkes;U.S.;2008
+NYSE_ORCL_2016.pdf;Oracle Corporation;Total revenues;37,047 million;USD;Net income;8,901 million;Safra A. Catz;Lawrence J. Ellison;Jeffrey O. Henley,Jeffrey S. Berg,H. Raymond Bingham,Michael J. Boskin,Bruce R. Chizen,George H. Conrades,Hector Garcia-Molina,Renée J. James,Leon E. Panetta,Naomi O. Seligman;Delaware;2016
+AMEX_AVD_2013.pdf;AMERICAN VANGUARD;;;USD;;;Eric G. Wintemute;Eric G. Wintemute;Eric G. Wintemute,Carl R. Soderlind,Lawrence S. Clark,John L. Killmer,Alfred F. Ingulli,Esmail Zirakparvar,Debra Edwards,Morton D. Erlich,Scott D. Baskin;California;2013
+NASDAQ_PINC_2016.pdf;Premier Inc;Net revenue;1,162,594 thousand;USD;Net income;235,161 thousand;Susan D. DeVore;Richard J. Statuto;Barclay E. Berdan,Eric J. Bieber,Stephen R. D’Arcy ,Jody R. Davids,William B. Downey,Peter S. Fine,Philip A. Incarnati,William E. Mayer,Marc D. Miller,Marvin R. O'Quinn,Scott Reiner,Terry D. Shaw,Richard J. Statuto,Ellen C. Wolf;Delaware;2016
+NYSE_ASH_2011.pdf;ashland;sales;6502m;USD;net income;414m;James J. O’Brien;James J. O’Brien;James J. O’Brien, Roger W. Hale,  Kathleen Ligocki,  Vada O. Manager,  Barry W. Perry,  Mark C. Rohr,  George A. Schaefer Jr,  Theodore M. Solso,  John F. Turner,  Michael J. Ward ;kentucky;2011
+ASX_BLY_2016.pdf;Boart Longyear;Revenue;642 million;USD;Adjusted Net Profit After Tax;-108 million;Jeff Olsen;Marcus Randolph;Marcus Randolph,Bret Clayton,Peter Day,Jonathan Lewinsohn,Jeffrey Long, Gretchen McClain, Rex McLennan, Jeffrey Olsen, Deborah O'Toole, Conor Tochilin;Utah;2016
+NYSE_BPT_1995.pdf;BP PRUDHOE BAY ROYALTY TRUST;Royalty revenue;34,886 thousand;USD;Cash earnings;34,198 thousand;;;;Delaware;1995
+NASDAQ_LORL_2016.pdf;Loral space & communications inc.;total segment revenue;703131T;USD;operating income;366272T;Mark h. rachesky;Mark h. rachesky;Mark h. rachesky,Michael B. Targoff,John D. harkey Jr.,arthur L. simon,John p. stenbit,Janet T. Yeung;New York;2016
+ASX_AWE_2014.pdf;Awe limited;sales revenue;328.2M;USD;net profit after tax;62.5M;Bruce Clement;Bruce Phillips;Bruce J. Phillips,Bruce F.W. Clement,David I. McEvoy,Kenneth G. Williams,Dr. Vijoleta Braach-Maksvytis ,Raymond J. Betros ,Karen L. C. Penrose;US;2014
+NASDAQ_KLIC_2016.pdf;Kulicke & Sofia;Net Revenue; 627192k;USD;Income (loss);47112k;Fusen E. Chen ;Garrett E. Pierce;"Garrett E. Pierce,
+Brian R. Bachman,
+Fusen E. Chen,
+Lim Chin Hu,
+Peter T. Kong,
+Gregory F. Milzcik,
+Yeo Mui Sung";Singapore;2016
+NASDAQ_CAMP_2016.pdf;CALAMP CORP.;Revenue;280719k;USD;Gross profit;102959k;Michael Burdiek;A.J. Moyer;"A.J. Moyer,
+Kimberly Alexy,
+Jeffery Gardner,
+Amal Johnson,
+Jorge Titinger,
+Larry Wolfe,
+Michael Burdiek,
+Richard Vitelle,";Delaware;2016
+OTC_BDRSF_2010.pdf;Borders & Southern Petroleum;finance income;1359497;USD;(Loss)/profit before tax;165283;Howard Obee;Harry Dobson;Harry Dobson,Stephen Posford,Howard Obee ,Nigel Hurst-Brown ,Peter Fleming;London;2010
+NYSE_COG_2012.pdf;CABOT OIL & GAS CORPORATION;Operating Revenue;1204500k;USD;Net Income;131700k;Dan O. Dinges;Dan O. Dinges;"Dan O. Dinges,
+Rhys J. Best,
+James R. Gibbs,
+Robert L. Keiser,
+Robert Kelley,
+P. Dexter Peacock,
+W. Matt Ralls";Texas;2012
+NYSE_SPA_2016.pdf;Sparton Corporation;Net Sales;419362k;USD;Gross profit;80148k;Joseph J. Hartnett;James R. Swartwout;"James R. Swartwout,
+Joseph J. Hartnett,
+Alan L. Bazaar,
+James D. Fast,
+John A. Janitz,
+Charles R. Kummeth,
+David P. Molfenter,
+Frank A. Wilson,
+Joseph G. McCormack";Ohio;2016
+NYSE_APC_2006.pdf;ANADARKO PETROLEUM CORPORATION;Revenue;10187000k;USD;Net Income;4851000k;James T. Hackett;James T. Hackett;"James T. Hackett,
+Robert J. Allison, Jr.,
+Larry Barcus,
+James L. Bryan,
+John R. Butler, Jr.,
+Luke R. Corbett,
+H. Paulett Eberhart,
+John R. Gordon,
+John W. Poduska, Sr.";Delaware;2006
+NASDAQ_AREX_2007.pdf;APPROACH RESOURCES INC.;            Total oil and gas sales including  derivative impact .;39114 k;USD;Net income;2709 k;J. Ross Craft;BRYAN H LAWRENCE;BRYAN H LAWRENCE,J ROSS CRAFT,JAMES H. BRANDI,JAMES C. CRAIN,SHELDON B. LUBAR,CHRISTOPHER J. WHYTE,J. ROSS CRAFT,STEVEN P. SMART,J. CURTIS HENDERSON,GLENN W. REED,RALPH P. MANOUSHAGIAN;Texas;2007
+NASDAQ_AREX_2015.pdf;APPROACH RESOURCES INC.;Revenue;131336k;USD;Net Loss;174104k;J. Ross Craft;J. Ross Craft;"J. Ross Craft,
+Vean J. Gregg,
+Alan D. Bell,
+James H. Brandi,
+James C. Crain,
+Bryan H. Lawrence,
+Sheldon B. Lubar,
+Christopher J. Whyte";Delaware;2015
+NASDAQ_TWOU_2014.pdf;2U, INC.;Revenue;110239k;USD;Net Loss;28999k;Christopher J. Paucek ;Paul A. Maeder;"Christopher J. Paucek,
+Catherine A. Graham,
+Paul A. Maeder,
+Mark J. Chernis,
+Timothy M. Haley,
+John M. Larson,
+Michael T. Moe,
+Robert M. Stavis,
+Sallie L. Krawcheck,
+Earl Lewis,
+Edward S. Macias";Delaware;2014
+NASDAQ_ARLP_2008.pdf;  Alliance Resource Partners L.P.   Alliance Holdings GP L.P.;Revenues;1100m;USD;Net income;134176;Joseph W. Craft III;John P. Neafsey;"Joseph W. Craft III,Charles R. Wesley,Michael J. Hall
+,John P. Neafsey,John H. Robinson,Wilson M. (Mack) Torrence,Thomas M. Davidson Sr,Robert J. Druten,Michael J. Hall";Oklahoma;2008
+NYSE_ATW_2004.pdf;ATWOOD OCEANICS INC.;Revenues;163454 K;USD;NET  INCOME  (LOSS);7587;JOHN  R.  IRWIN;;DEBORAH  A.  BECK ,ROBERT  W.  BURGESS ,GEORGE S. DOTSON ,HANS HELMERICH ,JOHN R. IRWIN ,WILLIAM J. MORRISSEY ;Texas;2004
+NYSE_ALJ_2008_04975f769faf4d14bbab8999ddb0f761.pdf;ALON USA ENERGY, INC.;Net Sales;1227319k;USD;Operating income (loss);1239k;Jeff D. Morris;David Wiessman;"David Wiessman,
+Jeff D. Morris,
+Shai Even ,
+ Ron W. Haddock ,
+Itzhak Bader ,
+Ron Fainaro ,
+ Avraham Baiga Shochat ,
+Yeshayahu Pery ,
+Zalman Segal ,
+Boaz Biran ,
+Avinadav Grinshpon ";Delaware;2008
+NASDAQ_OPLK_2012.pdf;oplink;Total;174,928;USD;Net income (loss);2582T;Joseph Y. Liu;Joseph Y. Liu;JOSEPH Y. LIU,CHIEH CHANG,TIM CHRISTOFFERSEN,JESSE W. JACK,HUA LEE;fremont, CA;2012
+NYSE_AAV_2014.pdf;Advantage Oil & Gas Ltd;Sales including realized hedging;46,409000;USD;Net income (loss) and comprehensive income (loss) from continuing operations;53,682000;Andy J. Mah ;Andy J. Mah ;Stephen E. Balog,Paul G. Haggis,Andy J. Mah,Ronald A. McIntosh,Grant Fagerheim;UNITED STATES;2014
+NYSE_S_2016.pdf;SPRINT CORPORATION;net operating revenue;32180M;USD;net loss;1995M;Marcelo Claure;Masayoshi Son;Nikesh Arora,Robert R. Bennett,Gordon M. Bethune, Marcelo Claure, Julius Genachowski, Michael G. Mullen, Sara Martinez Tucker;Overland Park, Kansas;2016
+NYSE_ALJ_2012_ebf4e8a5c158469483a0fb12ff4d76d1.pdf;alon usa;net sales;8,017,741T;USD;net income(loss) available to stockholders;79134T;Paul Eisman;David Wiessman;none;USA;2012
+NASDAQ_BLKB_2016.pdf;blackbaud inc.;total revenue;730,815T;USD;Gross profit;391595T;Michael P. Gianoni ;Andrew M. Leitch;Michael P. Gianoni,Timothy Chou,George H. Ellis,David G. Golden,Sarah E. Nash,Joyce M. Nelson,Peter J. Kight;Charleston, South Carolina;2016
+AMEX_API_2015.pdf;LUNA INNOVATIONS INCORPORATED;total revenue;44,020T;USD;Gross profit;16501T;My E. Chung;Richard W. Roedel;My E. Chung,Michael W. Wise,Donald Pastor,John B. Williamson III,Ettore J. Coringrato Jr,,Gary Spiegel;Roanoke, VA ;2015
+NYSE_CRM_2016.pdf;salesforce.com, inc.;Revenues;6,667,216;USD;Gross profit;5,012,668;Marc Benioff;Marc Benioff;CRAIG CONWAY,ALAN HASSENFELD,COLIN POWELL,SANFORD R. ROBERTSON,JOHN V. ROOS,LAWRENCE TOMLINSON,ROBIN WASHINGTON,MAYNARD WEBB,SUSAN WOJCICKI;UNITED STATES;2016
+NASDAQ_CGNX_2016.pdf;COGNEX CORPORATION;Revenue;520,753000;USD;Net income;149,572000;Robert J. Willett;Robert J. Shillman;Patrick Alias,Eugene Banucc,Theodor Krantz,Jeffrey Miller,J. Bruce Robinson,Jerry Schneider,Anthony Sun;UNITED STATES;2016
+NASDAQ_AAPL_2016.pdf;Apple Inc.;Net sales;215,639000000;USD;Net income;45,687000000;Timothy D. Cook;Timothy D. Cook;James A. Bell ,Al Gore,Robert A. Iger ,Andrea Jung,Arthur D. Levinson,Ronald D. Sugar,Susan L. Wagner;UNITED STATES;2016`
+NASDAQ_AHGP_2007.pdf;Alliance Holdings GP L.P.;total revenues;1033m;USD;net income;87.9m ;Joseph W. Craft III;Joseph W. Craft III;Joseph W. Craft III, Thomas M. Davidson Sr, Robert J. Druten, Michael J. Hall;OKLAHOMA;2007
+NYSE_AA_2009.pdf;alcoa;sales;18439m;USD;net income;1.23m;Klaus Kleinfeld;Alain J. P. Belda;Alain J. P. Belda, Klaus Kleinfeld, Kathryn S. Fuller, Carlos Ghosn, Joseph T. Gorman, Judith M. Gueron, Michael G. Morris, E. Stanley O’Neal, ames W. Owens, Patricia F. Russo, Henry B. Schacht, Ratan N. Tata, Franklin A. Thomas, Ernesto Zedillo;Pennsylvania;2009
+NYSE_BIOA_2016.pdf;BioAmber Inc;total revenue;1973524;USD;net loss;22478081;Fabrice Orecchioni;Raymond Land;Raymond Land, Kurt Briner, George F.J. Gosbee, Heinz Haller, Ellen Richstone, Kenneth W. Wall,  Jean-François Huc    ;Minnesota;2016
+NASDAQ_AOSL_2016.pdf;Alpha and Omega Semiconductor  Limited;revenue;335661k;USD;gross profit;65822k;Mike F. Chang;Mike F. Chang;Mike F. Chang, Yueh-Se Ho, Robert I. Chen, Michael L. Pfeiffer, King Owyang, Michael J. Salameh;california;2016
+NASDAQ_PRKR_2016.pdf;PARKERVISION INC;4,064,187;Revenue;USD;Net loss;21,509,270;Jeffrey L. Parker;Jeffrey L. Parker;Jeffrey L. Parker,Cynthia L. Poehlman,David F. Sorrells,William A. Hightower,John Metcalf, Frank N. Newman,Paul A. Rosenbaum,Robert G. Sterne,Nam P. Suh,Nam P. Suh;USA;2016
+NASDAQ_COOL_2015.pdf;MAJESCO ENTERTAINMENT COMPANY;Net revenues;6,693;USD;Net loss;3,809;Barry Honig;Barry Honig;"Barry Honig,John Stetson,Michael Brauser,Michael Beeghley,Mohit Bhansali,
+Andrew Kaplan,Ed Karr,David Rector";USA;2015
+NASDAQ_ARLP_2005.pdf;ALLIANCE RESOURCE PARTNERS L.P.;revenues;838.7m;USD;net income;160m;Joseph W. Craft III;John P. Neafsey;Joseph W. Craft III, Robert G. Sachse, Michael J. Hall, John J. MacWilliams, Preston R. Miller Jr, John P. Neafsey, John H. Robinson;OKLAHOMA ;2005
+NYSE_CJ_2016.pdf;C&J Energy Services, Inc;Revenue;971,142;USD;Net income (loss);944,289;Donald J. Gawick;Patrick Murray,;Patrick Murray,Donald Gawick,E. Michael Hobbs,Mark Cashiola ,Danielle Hunter,Patrick Bixenman,Edward Keppler,Timothy Wallace,Nicholas Petronio,Stuart Brightman;USA;2015
+NYSE_AA_2005.pdf;ALCOA;Sales;26,159000000;USD;Net income;1233000000;Alain Belda;Alain Belda;Kathryn S. Fuller;UNITED STATES;2005
+NYSE_BHI_2014.pdf;BAKER HUGHES;Revenue;24,551;USD;Net income; 1,731 ;Martin Craighead;Martin Craighead;Martin S. Craighead,Kimberly A. Ross,Belgacem Chariag,Alan R. Crain,Archana Deskus,Angela Durkin,Andrew C. Esparza,Alan J. Keifer,William D. Marsh,Jay G. Martin,Derek Mathieson ;USA;2014
+NASDAQ_JIVE_2015.pdf;JIVE SOFTWARE, INC.;Total revenues;195793k;USD;Gross profit;123599k;Elisa Steele;Anthony Zingale;"Elisa Steele,
+Bryan J. LeBlanc,
+Margaret A. Breya,
+William A. Lanfri, 
+Tom J. Reilly,
+Charles J. Robel,
+Theodore E. Schlein,
+Gabrielle Toledano, 
+Anthony Zingale";Delaware;2015
+NASDAQ_BIRT_2010.pdf;ACTUATE CORPORATION;total revenues;131472k;USD;Net income;10647k;Peter I. Cittadini;Nicolas C. Nierenberg;Nicolas C. Nierenberg, Peter I. Cittadini, ;California;2010
+NASDAQ_IIVI_2016.pdf;II-VI INCORPORATED ;Revenue;827216k;USD;Net earnings;65486k;Vincent D. (Chuck) Mattera, Jr. ;Francis J. Kramer;"Francis J. Kramer,
+Joseph J. Corasanti,
+Wendy F. DiCicco,
+Vincent D. Mattera, Jr.,
+Thomas E. Mistler,
+";PENNSYLVANIA;2016
+NASDAQ_ELON_2016.pdf;ECHELON CORPORATION;Revenue;32385k;USD;Gross profit;18083k;Ronald Sege;Ronald Sege;"Ronald Sege,
+C. Michael Marszewski,
+Armas Clifford Markkula, Jr.,
+Robert J. Finocchio, Jr,
+Robert R. Maxfield,
+Betsy Rafael";Delaware;2016
+NYSE_APA_1999.pdf;APACHE CORPORATION;Revenues;875715k;USD;Net income;131391k;Raymond Plank;Raymond Plank;Frederick M. Bohen, G. Steven Farris, Randolph M. Ferlic, Eugene C. Fiedorek, A. D. Frazier Jr., Stanley K. Hathaway, John A. Kocur, George D. Lawrence Jr., Mary Ralph Lowe, F. H. Merelli, Joseph A. Rice;Houston, Texas;1998
+NASDAQ_CNXR_2016.pdf;CONNECTURE, INC.;Revenue;81894k;USD;Gross Margin;24999k;Jef ery A. Surges;David A. Jones, Jr.;"Jef ery A. Surges,
+Vincent E. Estrada,
+David A. Jones, Jr.,
+A. John Ansay,
+Vickie L. Capps,
+Paul Kusserow,
+Ezra Perlman,
+Russell S. Thomas";Delaware;2016
+ASX_BSL_2015.pdf;Bluescope;Total revenue;8571.7 million;AUD;Net profit/(loss);136.3;P F O'Malley;Graham John Kraehe;"Daniel Bruno Grollo, Kenneth Alfred
+Dean, Paul Francis O’Malley,Penelope Bingham-Hall, Ewen Graham Wolseley Crouch AM,
+Lloyd Hartley Jones, John Andrew Bevan and Rebecca Patricia Dee-Bradbury. Ronald John McNeilly";MELBOURNE;2015
+NASDAQ_SYNA_2016.pdf;Synaptics INCORPORATED ;Net Revenue;1666.9 million;USD;Net income;110.4 million;Rick Bergman ;Francis F. Lee ;Richard A. Bergman,Wajid Ali,Francis F. Lee,Jeffrey D. Buchanan,Nelson C. Chan,Keith B. Geeslin,Russell J. Knittel,Richard L. Sanquini,James L. Whims;Delaware;2016
+NYSE_SAIC_2017.pdf;Science Applications International Corporation;Revenue;4450000k;USD;Net Income;148000k;ANTHONY J. MORACO;EDWARD J. SANDERSON, JR.;"EDWARD J. SANDERSON, JR.,
+DEBORAH DUNIE,
+TIMOTHY MAYOPOULOS,
+ANTHONY MORACO,
+THOMAS FRIST III,
+DONNA MOREA,
+ROBERT BEDINGFIELD,
+JOHN HAMRE,
+STEVEN SHANE";Delaware;2017
+NASDAQ_FORM_2016.pdf;FORMFACTOR INC;Revenues;337,970;USD;Gross profit;121,407;Michael D. Slessor;; LOTHAR MAIER, EDWARD ROGAS, JR, KELLEY STEVEN-WAISS, MICHAEL W. ZELLNER, RAYMOND LINK, RICHARD DELATEUR,THOMAS ST. DENNIS;LIVERMORE, CA 94551;2016
+NASDAQ_BKEP_2015.pdf;BLUEKNIGHT ENERGY PARTNERS, L.P.;Total revenue;173,193000;USD;Net income;33,475000;Mark A. Hurley;Mark A. Hurley;Duke R. Ligon,Steven M. Bradshaw,John A. Shapiro,Miguel A. (“Mike”) Loya,Michael R. Eisenson,Jon M. Biotti,Francis Brenner;UNITED STATES;2015
+NASDAQ_SNCR_2015.pdf;Synchronoss;Net revenues;578,831;USD;Net Income;46,682;Stephen G. Waldis;Stephen G. Waldis;"Stephen G. Waldis,William J. Cadogan,Charles E. Hoffman,Thomas J. Hopkins,James M. McCormick,Donnie M. Moore
+";Bridgewater, NJ 08807;2015
+NASDAQ_CNQR_2011.pdf;Concur;Revenues;349,488000;USD;Net income (loss) attributable to Concur;10,743000;Steve Singh;Steve Singh;Steve Singh;United Kingdom;2011
+NYSE_BAK_2008.pdf;Braskem;Net Revenue;10,022 million;USD;EBITDA;1,337 million;Carlos Tilkian;Marcelo Bahia Odebrecht;"Marcelo Bahia Odebrecht, Djalma Rodrigues de Souza, Alvaro Fernandes da Cunha Filho,Alvaro Pereira Novis, 
+Francisco Teixeira de Sá,
+José de Freitas Mascarenhas,
+Francisco Pais,
+Newton Sérgio de Souza,
+Antônio Britto Filho,
+José Mauro Carneiro da Cunha,
+Edmundo José Correia Aires";São Paulo;2008
+NYSE_AKS_2010.pdf;AK Steel Corporation;Net sales;5,968.3 ;USD;Net Income;130.7;James L. Wainscott;James L. Wainscott;Robert H. Jenkins,;West Chester, OH 45069;2010
+NYSE_BHGE_2016.pdf;Baker Hughes;Revenue;9,841 million;USD;Net Income (loss);2,736 million;Martin Craighead;Martin Craighead;Gregory D. Brenneman,Clarence P. Cazalot. Jr.,William H. Easter III,Lynn L. Elsenhans,Anthony G. Fernandes,Pierre H. Jungels,James A. Lash,J. Larry Nichols,James W. Stewart,James W. Stewart,Charles L. Watson;Texas;2016
+NYSE_BHP_2001.pdf;BHP BILLITON LIMITED;book value;3.6b;AUD;Earning per share;0.544  ;Paul Anderson;Don Argus;"Ben Alberts, Paul Anderson, Don Argus, David Brink, John Conde, Brian Gilbertson, Michael Chaney, David Crawford, 28
+BHP BILLITON LIMITED
+CONCISE ANNUAL REPORT 2001
+BOARD OF DIRECTORS
+THE BOARD OF DIRECTORS
+BHP BILLITON LIMITED
+Cornelius Herkströter, John Jackson, David Jenkins, Derek Keys, Ron McNeilly, John Ralph, Lord Renwick, Barry Romeril, John Schubert";Australia;2001
+NASDAQ_ACET_2008.pdf;Aceto Corporation;Net sales;359,591;USD;Net Income;13,473;Leonard S.  Schwartz;Leonard S.  Schwartz;"ALBERT L.  EILENDER,STANLEY
+H.   FISCHE,HANS
+C.   NOETZL,LEONARD
+S.   SCHWARTZ,ROBERT
+A.   WIESEN,WILLIAM
+N.
+BRITTON";New York ;2008
+NYSE_NLSN_2016.pdf; The Nielsen Company;Total revenues;6,309 million;USD;Net income;502 million;MITCH BARNS;JAMES A. ATTWOOD Jr.;Dwight M. Barns,James A. Attwood Jr,David Calhoun,James Kilts,Karen Hoguet,Harish Manwani,Kathryn V. Marinello,Robert Pozen,Vivek Ranadivé,David Rawlinson,Javier Teruel,Lauren Zalaznick;New York;2016
+NASDAQ_PRSS_2016.pdf;CAFEPRESS INC;Net revenue;102,208000;USD;Gross profit;41,802000;Fred E. Durham III;Fred E. Durham III;Anthony C. Allen,Patrick J. Connolly,Mary Ann Arico,Kenneth McBride,Nick Swinmurn,Roger D. Shannon;UNITED STATES ;2016
+OTC_SILXF_2016.pdf;Silex systems limited;Revenue from continuing operations;1,617,655;AUD;Net (loss) for the year;3,396,888;Dr Michael Goldsworthy ;Dr Lisa McIntyre;"Dr L M McIntyre, Dr M P Goldsworthy, R A R Lee,
+C D Wilks";Sydney;2016
+NASDAQ_NTCT_2016.pdf;Netscout systems INC.;Revenue;1,198.7 million;USD;INCOME FROM OPERATIONS ;251.1 million;Anil K. Singhal;Anil K. Singhal;"Anil K. Singhal,Victor A. DeMarines,
+Robert E. Donahue,
+John R. Egan,
+Joseph G. Hadzima Jr,
+Vincent J. Mullarkey,
+Christopher Perretta,James A. Lico";Massachusetts;2016
+NASDAQ_BKEP_2011.pdf;BLUEKNIGHT ENERGY PARTNERS;Total revenues;152,624 thousand;USD;Net Income (loss);23,796 thousand;James C. Dyer IV ;Duke R. Ligon ;James C. Dyer IV ,J. Michael Cockrell,Alex G. Stallings,James R. Griffin ,Jerry A. Parsons ,Jeffery A. Speer ,Michael Prince ,Larry Hatley ,Duke R. Ligon,Steven M. Bradshaw,John A. Shapiro ,Miguel A. (“Mike”) Loya,Michael R. Eisenson,Jon M. Biotti;OKLAHOMA;2010
+NASDAQ_ANAD_2008.pdf;Anadigics;Net sales;230556k;USD;Net income;6916k;Bami Bastani;Ronald Rosenzweig;Dr. Bami Bastani, Ronald Rosenzweig, Paul Bachow, Gilles Delfassy, David Fellows, Harry Rein, Lewis Solomon, Dennis Strigl;New Jersey;2007
+NYSE_MSCI_2016.pdf;MSCI INC.;Operating revenues;1150669k;USD;Net income;260855k;Henry A. Fernandez ;Henry A. Fernandez ;Henry A. Fernandez, Robert G. Ashe, Benjamin F. duPont, Wayne Edmunds, Alice W. Handy, Catherine R. Kinney, Wendy E. Lane, Jacques P. Perold, Linda H. Riefler, George W. Siguler, Patrick Tierney, Rodolphe M. Vallee;New York;2016
+NYSE_BPT_2011.pdf;BP PRUDHOE BAY ROYALTY TRUST;Royalty revenue;202325k;USD;na;na;na;na;na;DELAWARE;2011
+NYSE_ATW_2010.pdf;Atwood oceanics;Revenues;650,562 thousand;USD;Net income;256,996 thousand;Rob Saltiel;NA`;DEBORAH A. BECK,ROBERT W. BURGESS,GEORGE S. DOTSON,JACK E. GOLDEN,HANS HELMERICH,ROBERT J. SALTIEL,JAMES R. MONTAGUE;Texas;2010
+NYSE_BBG_2014.pdf;BILL BARRETT CORPORATION;Total Revenue;472291k;USD;Net Income (loss);15081k;R. Scot Woodall ;Jim W. Mogg;Jim W. Mogg, Carin M. Barth, Kevin O. Meyers, William F. Owens, Edmund P. Segner, Randy I. Stein, Michael E. Wiley;Delaware;2014
+NASDAQ_SPWR_2016.pdf;SunPower Corporation;Revenue;2,559,562 thousand;USD;Operating income (loss);462,414 thousand;Thomas H. Werner;Thomas H. Werner;Thomas H. Werner,Charles D. Boynton,Helle Kristoffersen,Daniel Laure,Catherine A. Lesjak,Thomas R. McDaniel,Ladislas Paszkiewicz,Julien Pouget,Laurent Wolffsheim,Patrick Wood III;California;2017
+NASDAQ_TTMI_2016.pdf;TTM TECHNOLOGIES, INC;Net sales;2,533,359;USD;Gross profit ;423,615;Thomas T. Edman;Robert E. Klatell;Kenton K. Alder, James K. Bass,  Julie S. England, Philip G. Franklin, Ronald W. Iverson, John G. Mayer, Tang Chung Yen, Tom, Dov S. Zakheim;California;2017
+NASDAQ_OCLR_2016.pdf;OCLARO INC;Revenues ;407,914 thousand;USD;Net Income (loss);8,580 thousand;Greg Dougherty;Marissa Peterson;Edward B. Collins,Greg Dougherty,Kendall W. Cowan,Lori Holland,Joel Smith III,William L. Smith;California;2016
+NYSE_GWRE_2016.pdf;UNITED STATES SECURITIES AND EXCHANGE COMMISSION;Total revenues;424,446;USD;Total gross profit;272,612;Marcus S. Ryu ;John Cavoores;Andrew Brown,  Craig Conway, Guy Dubois , Peter Gassner, Peter Gassner, Peter Gassner;Washington, D.C;2016
+NYSE_BPT_2012.pdf;BP PRUDHOE BAY ROYALTY TRUST;Royalty revenue;200,019 thousand;USD;Cash earnings;198,868 ;;;;;2012
+NYSE_CALX_2016.pdf;Calix;Revenue; 458,787 thousand;USD;Net loss;27,402 thousand;Carl Russo;Michael Everett;Carl Russo,Kevin DeNuccio,Michael Matthews,Christopher Bowick,Michael Flynn,Kevin Peters,Michael Everett,Don Listwin,;California;2017
+NASDAQ_ADVS_2015.pdf;SS&C Technologies Holdings, Inc.;Top line revenues;1.056 billion;USD;Net income total;52.0 million;William C. Stone;William C. Stone;Normand A. Boulanger, William A. Etherington, Smita Conjeevaram, Michael E. Daniels, Jonathan E. Michael, David A. Varsano, Michael J. Zamkow;UNITED STATES;2015
+NYSE_APA_2012.pdf;Apache;Annual revenue;17.1 billion;USD;Net income per common share;4.92;G. Steven Farris;G. STEVEN FARRIS;Randolph M. Ferlic, Eugene C. Fiedorek, A. D. Frazier, Jr, Patricia Albjerg Graham, Scott D. Josey, Chansoo Joung, John A. Kocur, George D. Lawrence, William C. Montgomery, Rodman D. Patton, Charles J. Pitman;North America;2012
+NYSE_APA_1997.pdf;APACHE CORP;Revenues;977,151;USD;Net Income;121,427;RAYMOND PLANK;RAYMOND PLANK;FREDERICK M. BOHEN,VIRGIL B. DAY,G. STEVEN FARRIS ,EUGENE C. FIEDOREK,ROBERT V. GISSELBECK,STANLEY K. HATHAWAY,GEORGE D. LAWRENCE JR,MARY RALPH LOWE,RAYMOND PLANK, JOSEPH A. RICE;HOUSTON, Texas;1997
+NASDAQ_VRNS_2016.pdf;VARONIS SYSTEMS INC;Revenues;164,456;USD;Gross profit;148,613;Yakov Faitelson;Yakov Faitelson;Ohad Korkus,Gili Iohan,Kevin Comolli,John J. Gavin.Jr, Thomas F. Mendoza,Ofer Segev,Rona Segev-Gal,Fred Van Den Bosch;NEW YORK,;2017
+NASDAQ_COHU_2016.pdf;Cohu;Net sales;282,084 thousand;USD;Net income;3,039 thousand;Luis A. Müller;James A. Donahue;James A. Donahue,Luis A. Müller,Jeffrey D. Jones ,William E. Bendush ,Steven J. Bilodeau ,Andrew M. Caggia ,Robert L. Ciardella,Karl H. Funke;California;2016
+NASDAQ_BKEP_2012.pdf;BLUEKNIGHT ENERGY PARTNERS;Total revenue;176,707 thousand;USD;Net Income (loss);33,475 thousand;James C. Dyer IV ;Duke R. Ligon ;James C. Dyer IV ,Duke R. Ligon,Steven M. Bradshaw ,John A. Shapiro ,Miguel A. (“Mike”) Loya ,Michael R. Eisenson,Jon M. Biotti ;OKLAHOMA;2011
+NASDAQ_BVSN_2016.pdf;BROADVISION INC. ;Total revenues;7,940 thousand;USD;Net loss;9,485 thousand;Pehong Chen;Pehong Chen;Pehong Chen,François Stieger,James D. Dixon,Robert Lee;California;2016
+NASDAQ_WAVX_2014.pdf;Wave Systems Corp.;Net revenues;16970834;USD;Net loss;12880598;William M Solms;David Cote;William M Solms,David Cote, George Gilder,Nolan Bushnell,Robert Frankenberg,Lorrain Hariton,Walter A Shephard;Massachusetts;2014
+NYSE_ANR_2011.pdf;ALPHA NATURAL RESOURCES, INC.;Total revenues;7,109,186000;USD;Income (loss) from continuing operations ;677,390000;Kevin S. Crutchfield;Michael J. Quillen;"William J. Crowley, Jr,E. Linn Draper, Jr.,Glenn A. Eisenberg
+,Deborah M. Fretz
+,P. Michael Giftos
+,Joel Richards, III
+,James F. Roberts
+,Ted G. Wood
+
+
+
+
+,";UNITED STATES;2011
+NYSE_AA_2007.pdf;Alcoa;Sales;30748m;USD;Income;2571m;Alain J. P. Belda;Alain J. P. Belda;Alain J. P. Belda, Kathryn S. Fuller, Carlos Ghosn, Joseph T. Gorman, Judith M. Gueron, Klaus Kleinfeld, Michael G. Morris, E. Stanley O’Neal, James W. Owens, Henry B. Schacht, Ratan N. Tata, Franklin A. Thomas, Ernesto Zedillo;Pennsylvania;2007
+NASDAQ_XLNX_2017.pdf;XILINX INC;Net revenue;2349330k;USD;Net income;622512k;Moshe N. Gavrielov;Dennis Segers;Dennis Segers, Moshe N. Gavrielov, Saar  Gillai, Ronald S. Jankov, Thomas H. Lee,  J. Michael Patterson, Albert A. Pimentel, Marshall C. Turner,  Elizabeth W. Vanderslice;California;2017
+NYSE_BWP_2006.pdf;Boardwalk Pipelines;Revenue;607,642 thousand;USD;Net income;197,550 thousand;Rolf A. Gafvert;Arthur L. Rebell;Arthur L. Rebell,Rolf A. Gafvert ,H. Dean Jones II ,William R. Cordes,Thomas E. Hyland ,Jonathan E. Nathanson ,Mark L. Shapiro ,Andrew H. Tisch ;Kentucky;2006
+NASDAQ_ARLP_2013.pdf;Alliance Resource Partners;Cash flows provided by operating activities;704,652 thousand;USD;Net income;393,490 thousand;Joseph W. Craft III;Joseph W. Craft III;Robert J. Druten,Thomas M. Davidson Sr.,Wilson M. Torrence ,John H. Robinson ,John P. Neafsey,Michael J. Hall ,Thomas M. Wynne,Charles R. Wesley,Joseph W. Craft III,;Oklahoma;2013
+NASDAQ_NCIT_2015.pdf;NCI, INC.;revenue;33,095T;USD;net income(loss);12,172T;Brian J. Clark;Charles K. Narang;Charles K. Narang,Brian J. Clark,James P. Allen,Paul V. Lombardi,Cindy E. Moran,Austin J. Yerks,Daniel R. Young;Reston, Virginia;2015
+NASDAQ_LOOK_2008.pdf;LOOKSMART LTD;revenue;105T;USD;gross profit;64T;Edward F. West ;Mark Sanders ;Jean-Yves Dexmier ,Teresa Dial ,Anthony Castagna ,Timothy J. Wright ;SAN FRANCISCO, CA;2008
+NYSE_ACI_2006.pdf;Arch Coal Inc.;Revenues;$2,500.4 million;USD;Net income available to common shareholders;2,60.6 million;STEVEN F. LEER;STEVEN F. LEER;JAMES R. BOYD ,BRIAN J. JENNINGS,THEODORE D. SANDS,FRANK M. BURKE,STEVEN F. LEER,WESLEY M. TAYLOR,JOHN W. EAVES,THOMAS A. LOCKHART,A. MICHAEL PERRY,PATRICIA FRY GODLEY,DOUGLAS H. HUNT,ROBERT G. POTTER,;Missouri;2006
+NASDAQ_INOD_2016.pdf;innodata inc;revenue;63074k;USD;net loss;2.8m;Jack S. Abuhoff ;Jack S. Abuhoff ;Jack S. Abuhoff, Haig S. Bagerdjian, Louise C. Forlenza, Stewart R. Massey, Michael J. Opat, Anthea C. Stratigos, Andargachew S. Zelleke;New Jersey;2016
+NYSE_ALB_2014.pdf;ALBEMARLE CORPORATION;net sales;2445548k;USD;gross profit;770848k;LUTHER  C. KISSAM  IV        ;JIM  W. NOKES        ;"LUTHER  C. KISSAM  IV, WILLIAM H. HERNANDEZ,  DOUGLAS L. MAINE, J. KENT MASTERS, JIM W. NOKES, JAMES J. O’BRIEN, BARRY W. PERRY,  JOHN SHERMAN JR, GERALD A. STEINER, HARRIETT TEE TAGGART, ALEJANDRO D. WOLFF        
+";Louisiana;2014
+NYSE_BCEI_2015.pdf;Bonanza Creek Energy Inc.;Total operating net revenues ;292679k;USD;Net income;745547k;Richard J. Carty;James A. Watt;James A. Watt, Richard J. Carty, Marvin M. Chronister, Kevin A. Neveu, Gregory P. Raih, Jeff E. Wojahn;Denver;2015
+NASDAQ_EXA_2015.pdf;EXA CORPORATION;total revenue;61431k;USD;net income;19157k;Stephen Remondi;John J. Shields III ;John J. Shields III, Stephen A. Remondi, Wayne Mackie, John William Poduska, Robert Schechter, Robert D. Burke;Massachusetts;2015
+NYSE_BHI_2015.pdf;baker hughes;revenue;15742 ;USD;net income;1974;Martin Craighead;Charles L. Watson;Larry D. Brady, Gregory D. Brenneman, Clarence P. Cazalot Jr, William H. Easter III, Lynn L. Elsenhans, Anthony G. Fernandes, Claire W. Gargalli, Pierre H. Jungels, James A. Lash, J. Larry Nichols, ames W. Stewart, Charles L. Watson;Texas;2015
+NASDAQ_ARLP_2001.pdf;A l l ian c e R e sou rc e Pa r tn e r s , L .P.;Revenues;446.3 million;USD;Net income;17.1 million;Joseph W. Craft III;John P. Neafsey;Joseph W. Craft III, Robert G. Sachse, John J. MacWilliams, Preston R. Miller, Jr. ,John P. Neafsey, John H. Robinson, Paul R. Tregurtha;Oklahoma;2001
+NYSE_WTT_2015.pdf;Wireless Telecom Group; Net sales ;33,109,106 ;USD; Gross Profit ;14,827,874;Paul Genova;Alan L. Bazaar;Alan L. Bazaar,Paul Genova,Robert Censullo,Don C. Bell III,Joseph Garrity,Mitchell Herbets,Timothy Whelan;United States;2015
+ASX_ISU_2016.pdf;iSelect;Operating revenue;171,865,000;USD;Gross profit;58,477,000;Scott Wilson;Chris Knoblanche AM;Chris Knoblanche AM,Damien Waller,Shaun Bonett,Bridget Fair,Brodie Arnhold,Melanie Wilson;Australia;2016
+NYSE_APA_2006.pdf;Apache Corporation;Revenues;8289000000;USD;Net income;2552451000;G. Steven Farris;Raymond Plank;Eugene C. Fiedorek,,Rodman D. Patton;UNITED STATES;2006
+NASDAQ_ARLP_2015.pdf;ALLIANCE RESOURCE PARTNERS, L.P. / ALLIANCE HOLDINGS GP, L.P.;Revenue;2.27 billion;USD;Net income;383.8 million;Joseph W. Craft III;Joseph W. Craft III;Joseph W. Craft III,Charles R. Wesley,Nick Carter,John P. Neafsey,Wilson M. Torrence,Thomas M. Davidson, Sr.,Robert J. Druten;US;2015
+NYSE_ACI_2014.pdf;ARCH COAL;Net Revenue;2,937.1M;USD;Net Loss;558,353T;John W. Eaves;Wesley M. Taylor;John W. Eaves,Wesley M. Taylor,David D. Freudenthal,David D. Freudenthal,Patricia F. Godley,Paul T. Hanrahan,Douglas H. Hunt,J. Thomas Jones,Paul A. Lang,George C. Morris III,Theodore D. Sands,Wesley M. Taylor,Peter I. Wold;Missouri;2014
+NYSE_ALJ_2014_6a681d8e853f4c35aee08c5ccd9cfd70.pdf;Alon USA Energy;Net Sales;6,779,456T;USD;Net Income;69,868T;Paul Eisman;David Wiessman;David Wiessman,Jeff Morris,Zalman Segal,Boaz Biran,Yeshayahu Pery,Ron Haddock,Shraga Biran,Ilan Cohen,Yonel Cohen,Oded Rubinstein,Mordehay Ventura,Amit Ben Itzhak;Texas;2014
+NYSE_ANR_2008.pdf;ALPHA NATURAL RESOURCES;Total revenues;2,554,124T;USD;Net income;165,537T;Michael J. Quillen;Michael J. Quillen;Michael J. Quillen,Mary Ellen Bowers,John S. Brinzo,Kevin S. Crutchfield,E. Linn Draper, Jr.,Glenn A. Eisenberg,John W. Fox,Ted G. Wood;Virginia;2008
+NASDAQ_EPIQ_2015.pdf;EPIQ;operating revenue;505.9 millions;USD;Net income(Loss);11,938 thousands;Tom W. Olofson;Tom W. Olofson;Tom W. Olofson, James A. Byrnes, Charles C. Connely, IV, Edward M. Connolly, Jr., Douglas M. Gaston, Joel Pelofsky, Kevin L. Robert, W. Bryan Satterlee, Brad D. Scott;Kansas;2015
+NYSE_BPT_2014.pdf;BP PRUDHOE BAY ROYALTY TRUST;Royalty revenues;227,904 thousand;USD;Cash earnings;226,763 thousand;;;;Texas;2014
+NASDAQ_GUID_2015.pdf;GUIDANCE SOFTWARE, INC. ;total revenues;107.0 million;USD;income;29,000;Patrick Dennis;Robert van Schoonenberg;Robert van Schoonenberg, Max Carnecchia,Shawn McCreight,  Chris Poole.;US;2015
+NASDAQ_INFN_2016.pdf;Infinera Corporation;Revenue;870,135 thousand;USD;Net Income (loss);24,430 thousand;Thomas J. Fallon;Kambiz Y. Hooshmand;Thomas J. Fallon,Kambiz Y. Hooshmand,Rajal M. Patel,Paul J. Milbury,David F. Welch,John P. Daane,Marcel Gani,Mark A. Wegleitner;California;2016
+NYSE_BHI_2003.pdf;Baker Hughes;Revenue;5.3 billion;USD;Net income;128.9 million;H. John Riley, Jr.;Michael E. Wiley;Larry D. Brady, Clarence P. Cazalot, Jr., Anthony G. Fernande, Claire W. Gargalli, James A. Lash, James A. Lash, J. Larry Nichols, Michael E. Wiley;Texas;2003
+NASDAQ_MANT_2016.pdf;ManTech International Corporation;Revenues;1,601,596 thousand;USD;Net Income (loss);56,391 thousand;George J. Pedersen;George J. Pedersen;Richard L. Armitage,Mary K. Bush,Barry G. Campbell,Walter R. Fatzinger,Richard J. Kerr,Kenneth A. Minihan,George J. Pedersen;Virginia;2016
+NYSE_CTL_2016.pdf;Century Link;;;USD;;;Glen F. Post III ;;;Louisiana;2016
+NASDAQ_RESN_2016.pdf;RESONANT INC.;Revenues;302000;USD;net loss;15247000;George B. Holmes;John E. Major;George B. Holmes, Jeff A. Killian,Robert B. Hammond,John E. Major,Janet K. Cooper,Michael J. Fox,Thomas R. Joseph, Rick Kornfeld;California;2016
+NASDAQ_VIAS_2010.pdf;Viasystems;Total net sales;496.4;USD;Operating (loss) income;(4.7;David M. Sindelar;Christopher J. Steffen;Jack D. Furst,Edward Herring,Robert F. Cummings, Richard A. McGinn,Peter Frank ,Kirby Dyess ,William McCormick,Michael Burger ,David M. Sindelar ,Timothy L. Conlon,Gerald G. Sax ,Christopher R. Isaak;USA;2010

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Data Extraction</title>
+  <link rel="stylesheet" href="../static/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../static/css/appstyle.css">
+  <link rel="stylesheet" href="../static/css/font-awesome.min.css">
+  <link rel='stylesheet' href='../static/css/all.css'>
+  <link rel="stylesheet" href="../static/css/main.css">
+  <link rel="stylesheet" href="../static/css/util.css">
+  <link rel="stylesheet" href="../static/css/form_style.css">
+  <link rel="icon" type="image/png" href="../static/images/icons/favicon.ico" />
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-md navbar-dark justify-content-between header">
+      <ul class="navbar-nav">
+          <li>
+              <img class="logo" src="../static/images/ust_logol.png" alt="logo">
+          </li>
+      </ul>
+      <h4 class="navbar-text" style="color:#00758b!important">Data Extraction from Richly Formatted Documents</h4>
+      <ul class="navbar-nav">      
+          <li class="nav-item">
+              <a class="nav-link" href="/">Home</a>
+          </li>        
+      </ul>
+  </nav>
+  <br>  
+  <div class="container-fluid body-container">
+      <div id="msform">
+          <!-- progressbar -->
+          <ul id="progressbar">
+            <li class="active"><a href="step1">Upload Training Documents</a></li>
+            <li><a href="step2">View Candidates</a></li>
+            <li><a href="step3">Select algorithm and train</a></li>
+            <li><a href="step4">Upload Documents For Prediction</a></li>
+            <li><a href="step5">View Results</a></li>
+          </ul>
+          <!-- fieldsets -->
+          <div>            
+            <h2 class="fs-title">Upload Training Documents</h2> 
+            <h3 class="fs-subtitle">Upload one/multiple/zip files</h3>
+            {% if data.status_code == 200 %}          
+              <h3 class="fs-subtitle text-success">{{data.message}}</h3>
+            {% else %}
+              <h3 class="fs-subtitle text-danger">{{data.message}}</h3>
+            {% endif %}                       
+            <h3 class="fs-subtitle" id="upload_msg"></h3>
+            <form action = "uploader" method = "POST" enctype = "multipart/form-data">
+              
+              <input type = "file" name = "file" class="text-center mx-auto" multiple/>
+              <button class="btn btn-light" type = "submit">Upload</button>&nbsp;
+              <button class="btn btn-danger" type = "button" id="deleteBtn">Clear Folder</button>&nbsp;
+              <a href = "beginParsing"><button class="btn btn-success" type="button">Next</button></a>
+            </form>
+            <br>
+          </div>          
+        </div>  
+  </div>
+
+  <script src="../static/js/jquery-3.4.1.min.js"></script> 
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js'></script>
+  <script src="../static/js/form.js"></script> 
+  <script src="../static/js/bootstrap.min.js"></script>
+  <script src="../static/js/fontawesome.min.js"></script>
+  <script>
+    $("#deleteBtn").click(function(){
+  $.ajax({url: "/clearTrain", success: function(data){
+    console.log(data)
+    if(data.status_code == 200){
+      $("#upload_msg").addClass('text-success');
+      $("#upload_msg").text(data.message);
+    }
+    else{
+      $("#upload_msg").addClass('text-danger');
+      $("#upload_msg").text(data.message);
+    }
+    
+  }});
+});
+  </script>
+</body>
+
+</html>
