@@ -16,7 +16,7 @@ secure-smtplib==0.1.1
 six==1.12.0
 SQLAlchemy==1.3.1
 urllib3==1.24.1
-Werkzeug==0.15.1
+Werkzeug==0.15.3
 
 bs4<0.1.0,>=0.0.1
 editdistance<0.6.0,>=0.5.2
